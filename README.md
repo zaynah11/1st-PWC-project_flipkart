@@ -1,8 +1,3 @@
-
-GPT-5
-Here’s a clean, copy-paste-ready README you can adapt to your repo.
-
-Title
 Flipkart Products Data Pipeline (CSV → Supabase Postgres → Cleaning → Analysis → DQ Checks)
 
 Overview
