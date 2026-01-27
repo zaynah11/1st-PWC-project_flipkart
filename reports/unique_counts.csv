@@ -1,0 +1,14 @@
+,unique_count
+id,30000
+customer_name,10202
+city,212
+call_duration_in_minutes,41
+state,36
+call_timestamp,31
+csat_score,10
+sentiment,5
+call_center,4
+channel,4
+reason,3
+response_time,3
+gender,2

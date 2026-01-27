@@ -1,0 +1,14 @@
+,dtype
+id,str
+customer_name,str
+gender,str
+sentiment,str
+csat_score,float64
+call_timestamp,str
+reason,str
+city,str
+state,str
+channel,str
+response_time,str
+call_duration_in_minutes,int64
+call_center,str

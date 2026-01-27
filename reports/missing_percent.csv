@@ -1,0 +1,14 @@
+,missing_percent
+state,0.44
+city,0.44
+customer_name,0.01
+gender,0.01
+id,0.0
+csat_score,0.0
+sentiment,0.0
+reason,0.0
+call_timestamp,0.0
+channel,0.0
+response_time,0.0
+call_duration_in_minutes,0.0
+call_center,0.0
