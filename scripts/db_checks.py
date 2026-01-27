@@ -4,39 +4,39 @@ sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 import pandas as pd
 from db_connection import engine
  
-TABLE_NAME = "orders"   # change if your table name is different
+TABLE_NAME = "orders" 
 OUT_DIR = "reports"
 os.makedirs(OUT_DIR, exist_ok=True)
  
 df = pd.read_sql(f'SELECT * FROM "{TABLE_NAME}"', engine)
  
-# 1) basic shape
+# basic shape
 shape = {"rows": len(df), "cols": len(df.columns)}
  
-# 2) missing %
+#  missing percent
 missing_pct = (df.isna().mean() * 100).round(2).sort_values(ascending=False)
  
-# 3) duplicate rows
+# any duplicate rows
 dup_rows = int(df.duplicated().sum())
  
-# 4) column-wise unique counts
+#  column-wise unique counts
 unique_counts = df.nunique(dropna=True).sort_values(ascending=False)
  
-# 5) basic type info
+#  type info
 dtypes = df.dtypes.astype(str)
  
-# 6) numeric sanity (min/max/mean)
+# numeric sanity (min/max/mean)
 num = df.select_dtypes(include="number")
 num_summary = num.describe().T if not num.empty else pd.DataFrame()
  
-# ---- Save outputs ----
+# ---- Save outputs ---------------------------------------------------
 missing_pct.to_csv(f"{OUT_DIR}/missing_percent.csv", header=["missing_percent"])
 unique_counts.to_csv(f"{OUT_DIR}/unique_counts.csv", header=["unique_count"])
 dtypes.to_csv(f"{OUT_DIR}/dtypes.csv", header=["dtype"])
 if not num_summary.empty:
     num_summary.to_csv(f"{OUT_DIR}/numeric_summary.csv")
  
-# ---- Print quick report ----
+# ---- Print quick report ------------------------------------------------------
 print("=== DB CHECKS ===")
 print("Table:", TABLE_NAME)
 print("Rows:", shape["rows"], "Cols:", shape["cols"])

@@ -14,7 +14,7 @@ def safe_mean(series):
     s = pd.to_numeric(series, errors="coerce")
     return float(s.mean()) if s.notna().any() else None
  
-# --- Core metrics ---
+# --- Core metrics ------------------
 insights = {}
  
 insights["total_rows"] = int(len(df))
