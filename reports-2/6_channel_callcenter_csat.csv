@@ -1,0 +1,17 @@
+channel,call_center,avg_csat,tickets
+Call-Center,Delhi,5.225,4053
+Call-Center,Mumbai,5.198,3152
+Chatbot,Delhi,5.186,3124
+Email,Delhi,5.207,2861
+Chatbot,Mumbai,5.187,2527
+Web,Delhi,5.229,2431
+Email,Mumbai,5.217,2229
+Web,Mumbai,5.213,2052
+Call-Center,Kolkata,5.245,1589
+Chatbot,Kolkata,5.138,1236
+Email,Kolkata,5.058,1123
+Web,Kolkata,5.204,955
+Call-Center,Chennai,5.293,819
+Chatbot,Chennai,5.154,612
+Email,Chennai,5.198,596
+Web,Chennai,5.285,506

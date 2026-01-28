@@ -7,7 +7,7 @@ from db_connection import engine
 from clean import clean_data
  
 CSV_PATH = "data.csv"
-TABLE_NAME = "orders"
+TABLE_NAME = "orders02"
  
 df = pd.read_csv(CSV_PATH)
 df = clean_data(df)

@@ -4,7 +4,7 @@ sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 import pandas as pd
 from db_connection import engine
  
-TABLE_NAME = "orders" 
+TABLE_NAME = "final_table" 
 OUT_DIR = "reports"
 os.makedirs(OUT_DIR, exist_ok=True)
  
