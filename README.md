@@ -14,23 +14,8 @@ Generate reusable analytical reports
 Export insights for business users (CSV / Excel)
 
 📂 Project Structure
-1st-flipkart_project/
-│
-├── ingest_csv.py            # Load raw CSV data into PostgreSQL
-├── clean.py                 # Data cleaning & normalization logic
-├── db_checks.py             # Data quality & validation checks
-├── analysis.py              # Business analytics & report generation
-├── db_connection.py         # PostgreSQL connection setup
-│
-├── reports-5/               # Generated CSV reports
-│   ├── 1_kpi_summary.csv
-│   ├── 2_top_reasons.csv
-│   ├── 3_sentiment.csv
-│   ├── 4_csat_by_state.csv
-│   ├── 5_csat_state_channel_sentiment.csv
-│   └── 6_channel_callcenter_csat.csv
-│
-└── README.md
+<img width="768" height="604" alt="image" src="https://github.com/user-attachments/assets/84ad45c3-190f-45fe-bf43-a0dba896cee8" />
+
 
 🔄 Data Pipeline Flow
 Ingest raw CSV data into PostgreSQL
