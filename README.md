@@ -14,6 +14,7 @@ Generate reusable analytical reports
 Export insights for business users (CSV / Excel)
 
 📂 Project Structure
+
 <img width="768" height="604" alt="image" src="https://github.com/user-attachments/assets/84ad45c3-190f-45fe-bf43-a0dba896cee8" />
 
 
