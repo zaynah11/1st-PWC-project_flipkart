@@ -1,715 +1,715 @@
-state,channel,sentiment,avg_csat,tickets
-Uttar Pradesh,Call-Center,Negative,4.828,418
-Maharashtra,Call-Center,Negative,4.818,384
-Uttar Pradesh,Chatbot,Negative,4.781,320
-Uttar Pradesh,Email,Negative,4.886,316
-Maharashtra,Chatbot,Negative,4.843,313
-Maharashtra,Call-Center,Neutral,5.561,312
-Uttar Pradesh,Call-Center,Neutral,5.487,298
-Maharashtra,Email,Negative,4.77,287
-Tamil Nadu,Call-Center,Negative,4.865,267
-Maharashtra,Web,Negative,4.817,251
-Maharashtra,Chatbot,Neutral,5.695,249
-Uttar Pradesh,Web,Negative,4.829,246
-Karnataka,Call-Center,Negative,4.86,242
-Maharashtra,Call-Center,Very Negative,4.059,239
-Maharashtra,Email,Neutral,5.637,234
-Uttar Pradesh,Chatbot,Neutral,5.45,231
-Uttar Pradesh,Email,Neutral,5.584,231
-Uttar Pradesh,Call-Center,Very Negative,4.105,220
-Andhra Pradesh,Call-Center,Negative,4.913,219
-Uttar Pradesh,Web,Neutral,5.526,213
-Tamil Nadu,Call-Center,Neutral,5.606,208
-Karnataka,Call-Center,Neutral,5.556,196
-Tamil Nadu,Chatbot,Negative,4.839,193
-Karnataka,Chatbot,Negative,4.682,192
-Maharashtra,Web,Neutral,5.518,191
-Karnataka,Email,Negative,4.893,178
-Haryana,Call-Center,Negative,4.812,176
-Tamil Nadu,Email,Negative,4.776,174
-Andhra Pradesh,Chatbot,Negative,4.815,173
-Uttar Pradesh,Chatbot,Very Negative,3.953,172
-Andhra Pradesh,Call-Center,Neutral,5.544,171
-Tamil Nadu,Web,Negative,4.632,163
-Maharashtra,Email,Very Negative,3.893,159
-Andhra Pradesh,Email,Negative,4.759,158
-Karnataka,Call-Center,Very Negative,4.187,155
-Tamil Nadu,Chatbot,Neutral,5.474,154
-Rajasthan,Call-Center,Negative,4.837,153
-Tamil Nadu,Call-Center,Very Negative,3.894,151
-Maharashtra,Chatbot,Very Negative,3.694,147
-Uttar Pradesh,Email,Very Negative,3.952,146
-Karnataka,Web,Negative,4.745,145
-Haryana,Call-Center,Neutral,5.542,144
-Maharashtra,Call-Center,Positive,6.155,142
-Tamil Nadu,Email,Neutral,5.657,140
-Karnataka,Chatbot,Neutral,5.471,138
-Andhra Pradesh,Web,Negative,4.876,137
-Andhra Pradesh,Chatbot,Neutral,5.588,136
-Uttar Pradesh,Call-Center,Positive,6.169,136
-Uttar Pradesh,Web,Very Negative,4.037,134
-Uttar Pradesh,Call-Center,Very Positive,7.015,130
-Rajasthan,Email,Negative,4.852,128
-Rajasthan,Chatbot,Neutral,5.441,127
-Karnataka,Email,Neutral,5.512,123
-Maharashtra,Web,Very Negative,4.328,122
-Rajasthan,Chatbot,Negative,4.787,122
-Maharashtra,Call-Center,Very Positive,6.59,122
-Madhya Pradesh,Call-Center,Negative,4.811,122
-Rajasthan,Call-Center,Neutral,5.628,121
-Andhra Pradesh,Email,Neutral,5.421,121
-Haryana,Chatbot,Negative,4.792,120
-Telangana,Call-Center,Negative,4.825,120
-Andhra Pradesh,Call-Center,Very Negative,4.11,118
-Rajasthan,Web,Negative,4.863,117
-West Bengal,Chatbot,Negative,4.863,117
-West Bengal,Call-Center,Negative,4.75,116
-Rajasthan,Email,Neutral,5.534,116
-Haryana,Email,Negative,4.835,115
-Haryana,Chatbot,Neutral,5.544,114
-Karnataka,Web,Neutral,5.761,113
-Uttar Pradesh,Web,Positive,6.063,111
-Telangana,Chatbot,Negative,4.919,111
-Uttar Pradesh,Chatbot,Positive,6.018,111
-Karnataka,Chatbot,Very Negative,4.081,111
-Maharashtra,Email,Positive,5.982,110
-Gujarat,Call-Center,Negative,4.833,108
-Gujarat,Call-Center,Neutral,5.556,108
-Andhra Pradesh,Web,Neutral,5.654,107
-Tamil Nadu,Web,Neutral,5.6,105
-Tamil Nadu,Call-Center,Positive,6.144,104
-Maharashtra,Chatbot,Positive,6.067,104
-West Bengal,Call-Center,Neutral,5.553,103
-Tamil Nadu,Email,Very Negative,4.059,102
-Gujarat,Email,Negative,4.812,101
-Odisha,Call-Center,Negative,4.768,99
-Telangana,Email,Neutral,5.561,98
-Haryana,Call-Center,Very Negative,3.907,97
-Tamil Nadu,Chatbot,Very Negative,4.052,97
-Assam,Call-Center,Negative,4.856,97
-Rajasthan,Call-Center,Very Negative,4.0,96
-West Bengal,Email,Negative,4.842,95
-Haryana,Web,Negative,4.811,95
-Andhra Pradesh,Email,Very Negative,4.032,94
-Andhra Pradesh,Chatbot,Very Negative,4.151,93
-Uttar Pradesh,Email,Positive,6.108,93
-Madhya Pradesh,Call-Center,Neutral,5.435,92
-Haryana,Web,Neutral,5.489,92
-Punjab,Call-Center,Negative,4.739,92
-Maharashtra,Chatbot,Very Positive,6.533,92
-Odisha,Email,Negative,4.835,91
-Tamil Nadu,Chatbot,Positive,6.341,91
-Telangana,Call-Center,Neutral,5.656,90
-Haryana,Email,Neutral,5.411,90
-Telangana,Email,Negative,4.787,89
-Telangana,Web,Negative,4.841,88
-Haryana,Chatbot,Very Negative,3.954,87
-Karnataka,Email,Very Negative,3.931,87
-Punjab,Call-Center,Neutral,5.563,87
-Telangana,Chatbot,Neutral,5.395,86
-Odisha,Call-Center,Neutral,5.494,85
-Telangana,Web,Neutral,5.553,85
-Uttar Pradesh,Chatbot,Very Positive,6.536,84
-Maharashtra,Web,Positive,6.108,83
-Rajasthan,Web,Neutral,5.566,83
-Tamil Nadu,Web,Very Negative,4.145,83
-Gujarat,Chatbot,Neutral,5.585,82
-West Bengal,Call-Center,Very Negative,3.815,81
-Bihar,Call-Center,Negative,4.788,80
-Tamil Nadu,Call-Center,Very Positive,6.612,80
-Gujarat,Chatbot,Negative,4.912,80
-Karnataka,Call-Center,Positive,6.063,79
-West Bengal,Web,Negative,4.823,79
-Madhya Pradesh,Chatbot,Neutral,5.423,78
-West Bengal,Chatbot,Neutral,5.597,77
-Madhya Pradesh,Chatbot,Negative,4.61,77
-Gujarat,Web,Negative,4.816,76
-Maharashtra,Email,Very Positive,6.421,76
-Punjab,Chatbot,Negative,4.855,76
-Uttar Pradesh,Email,Very Positive,6.487,76
-Assam,Call-Center,Neutral,5.68,75
-Tamil Nadu,Email,Positive,6.267,75
-Odisha,Chatbot,Negative,4.853,75
-Karnataka,Web,Very Negative,4.133,75
-Andhra Pradesh,Call-Center,Positive,6.04,75
-Gujarat,Email,Neutral,5.378,74
-Madhya Pradesh,Web,Negative,4.767,73
-Rajasthan,Chatbot,Very Negative,3.767,73
-Odisha,Chatbot,Neutral,5.597,72
-Bihar,Call-Center,Neutral,5.458,72
-Bihar,Chatbot,Negative,4.819,72
-Telangana,Call-Center,Very Negative,4.268,71
-Uttar Pradesh,Web,Very Positive,6.329,70
-West Bengal,Email,Neutral,5.464,69
-Karnataka,Call-Center,Very Positive,6.275,69
-Jharkhand,Call-Center,Negative,4.826,69
-Madhya Pradesh,Email,Negative,4.826,69
-Assam,Email,Negative,4.826,69
-Telangana,Chatbot,Very Negative,4.014,69
-Rajasthan,Email,Very Negative,3.812,69
-Madhya Pradesh,Email,Neutral,5.478,67
-Andhra Pradesh,Call-Center,Very Positive,6.682,66
-Odisha,Web,Negative,5.015,66
-West Bengal,Chatbot,Very Negative,3.939,66
-West Bengal,Web,Neutral,5.742,66
-Kerala,Call-Center,Negative,4.862,65
-Andhra Pradesh,Web,Positive,6.262,65
-Gujarat,Call-Center,Very Negative,4.169,65
-Jammu and Kashmir,Call-Center,Negative,4.954,65
-Andhra Pradesh,Web,Very Negative,4.078,64
-Odisha,Web,Neutral,5.635,63
-Punjab,Email,Negative,4.603,63
-Gujarat,Web,Neutral,5.524,63
-Haryana,Email,Very Negative,4.0,62
-Karnataka,Chatbot,Positive,5.885,61
-Rajasthan,Call-Center,Positive,6.344,61
-Odisha,Email,Neutral,5.6,60
-Andhra Pradesh,Chatbot,Very Positive,7.017,60
-Bihar,Email,Negative,4.8,60
-Telangana,Email,Very Negative,4.217,60
-Madhya Pradesh,Call-Center,Very Negative,4.22,59
-Maharashtra,Web,Very Positive,7.017,59
-Karnataka,Web,Positive,5.828,58
-Gujarat,Chatbot,Very Negative,3.845,58
-Tamil Nadu,Web,Positive,6.362,58
-Rajasthan,Web,Very Negative,3.912,57
-Assam,Web,Negative,4.786,56
-Rajasthan,Call-Center,Very Positive,6.679,56
-Jammu and Kashmir,Email,Negative,4.786,56
-Karnataka,Email,Very Positive,6.426,54
-Haryana,Email,Positive,5.87,54
-Jharkhand,Call-Center,Neutral,5.759,54
-Punjab,Chatbot,Neutral,5.491,53
-Assam,Chatbot,Negative,4.887,53
-Gujarat,Web,Very Negative,4.212,52
-Bihar,Chatbot,Neutral,5.25,52
-Jammu and Kashmir,Chatbot,Negative,4.863,51
-Haryana,Call-Center,Positive,6.235,51
-Bihar,Web,Negative,4.804,51
-Tamil Nadu,Web,Very Positive,5.882,51
-Andhra Pradesh,Email,Very Positive,6.529,51
-Andhra Pradesh,Chatbot,Positive,5.96,50
-Kerala,Chatbot,Negative,4.72,50
-Kerala,Chatbot,Neutral,5.86,50
-Andhra Pradesh,Email,Positive,6.1,50
-Karnataka,Chatbot,Very Positive,6.714,49
-Karnataka,Email,Positive,5.918,49
-Jharkhand,Web,Negative,4.918,49
-Assam,Call-Center,Very Negative,4.061,49
-Punjab,Call-Center,Very Negative,3.979,48
-West Bengal,Call-Center,Very Positive,6.396,48
-West Bengal,Email,Very Negative,4.021,48
-Madhya Pradesh,Web,Neutral,5.375,48
-Jharkhand,Chatbot,Negative,4.938,48
-Telangana,Call-Center,Positive,6.062,48
-Bihar,Email,Neutral,5.792,48
-Rajasthan,Email,Positive,6.149,47
-Tamil Nadu,Chatbot,Very Positive,6.553,47
-Bihar,Call-Center,Very Negative,3.766,47
-Bihar,Web,Neutral,5.681,47
-Haryana,Web,Very Negative,4.298,47
-Punjab,Web,Neutral,5.413,46
-West Bengal,Call-Center,Positive,5.891,46
-Kerala,Email,Negative,4.739,46
-Assam,Chatbot,Very Negative,4.217,46
-Assam,Email,Neutral,5.467,45
-Punjab,Web,Negative,4.689,45
-Odisha,Call-Center,Very Negative,3.911,45
-Rajasthan,Web,Positive,6.295,44
-Punjab,Email,Neutral,5.364,44
-Madhya Pradesh,Chatbot,Very Negative,4.045,44
-Rajasthan,Chatbot,Positive,6.279,43
-Tamil Nadu,Email,Very Positive,6.256,43
-Madhya Pradesh,Web,Very Negative,3.977,43
-Rajasthan,Chatbot,Very Positive,6.07,43
-Kerala,Call-Center,Neutral,5.558,43
-Haryana,Call-Center,Very Positive,6.907,43
-Assam,Web,Neutral,5.619,42
-Jammu and Kashmir,Call-Center,Neutral,5.762,42
-Punjab,Email,Very Negative,3.927,41
-Haryana,Chatbot,Very Positive,6.341,41
-Kerala,Web,Negative,4.927,41
-Assam,Chatbot,Neutral,5.902,41
-Punjab,Chatbot,Very Negative,3.825,40
-Kerala,Call-Center,Very Negative,3.8,40
-Jharkhand,Email,Negative,4.846,39
-Jharkhand,Chatbot,Neutral,5.641,39
-Haryana,Web,Positive,6.077,39
-Telangana,Email,Very Positive,6.205,39
-West Bengal,Web,Very Negative,4.179,39
-Rajasthan,Web,Very Positive,6.128,39
-West Bengal,Chatbot,Positive,6.026,39
-Jammu and Kashmir,Web,Negative,5.105,38
-Telangana,Web,Very Negative,4.447,38
-Jharkhand,Web,Neutral,5.579,38
-Telangana,Chatbot,Positive,6.158,38
-Punjab,Web,Very Negative,4.237,38
-Haryana,Chatbot,Positive,6.158,38
-Gujarat,Chatbot,Positive,6.811,37
-Bihar,Chatbot,Very Negative,3.838,37
-Bihar,Call-Center,Very Positive,6.811,37
-Kerala,Web,Neutral,5.459,37
-West Bengal,Email,Very Positive,6.162,37
-Delhi,Call-Center,Negative,4.889,36
-Gujarat,Call-Center,Very Positive,6.944,36
-Madhya Pradesh,Email,Very Negative,4.056,36
-Madhya Pradesh,Call-Center,Positive,6.111,36
-Karnataka,Web,Very Positive,6.5,36
-Haryana,Email,Very Positive,7.257,35
-Rajasthan,Email,Very Positive,6.914,35
-Jharkhand,Call-Center,Very Negative,4.171,35
-Jammu and Kashmir,Chatbot,Very Negative,4.171,35
-Assam,Call-Center,Positive,5.971,35
-Telangana,Chatbot,Very Positive,6.829,35
-Jharkhand,Email,Neutral,5.257,35
-Bihar,Call-Center,Positive,6.294,34
-Odisha,Chatbot,Very Negative,3.559,34
-Telangana,Call-Center,Very Positive,6.294,34
-Gujarat,Email,Positive,6.353,34
-Gujarat,Email,Very Negative,4.235,34
-Kerala,Email,Neutral,5.848,33
-Odisha,Call-Center,Positive,6.394,33
-West Bengal,Email,Positive,6.0,33
-Assam,Web,Very Negative,3.938,32
-Gujarat,Chatbot,Very Positive,6.656,32
-Chhattisgarh,Call-Center,Negative,4.875,32
-Gujarat,Call-Center,Positive,6.387,31
-Chhattisgarh,Chatbot,Negative,4.774,31
-Punjab,Chatbot,Positive,6.0,31
-West Bengal,Chatbot,Very Positive,6.871,31
-Andhra Pradesh,Web,Very Positive,6.806,31
-Telangana,Web,Positive,6.258,31
-Odisha,Call-Center,Very Positive,7.133,30
-Punjab,Call-Center,Positive,6.0,30
-West Bengal,Web,Positive,6.0,30
-Odisha,Web,Positive,6.233,30
-Jammu and Kashmir,Chatbot,Neutral,5.333,30
-Telangana,Email,Positive,6.533,30
-Madhya Pradesh,Call-Center,Very Positive,6.333,30
-Odisha,Email,Very Negative,3.933,30
-Bihar,Web,Very Negative,4.0,30
-Bihar,Email,Very Negative,4.345,29
-Odisha,Email,Positive,6.793,29
-Jammu and Kashmir,Email,Neutral,5.31,29
-Delhi,Email,Negative,4.897,29
-Punjab,Call-Center,Very Positive,6.643,28
-Assam,Email,Very Negative,4.179,28
-Assam,Chatbot,Positive,6.222,27
-Madhya Pradesh,Chatbot,Positive,5.889,27
-Odisha,Web,Very Negative,3.852,27
-Jammu and Kashmir,Web,Neutral,5.462,26
-Bihar,Chatbot,Positive,6.115,26
-Haryana,Web,Very Positive,6.885,26
-Assam,Chatbot,Very Positive,6.846,26
-Jammu and Kashmir,Call-Center,Very Negative,4.154,26
-West Bengal,Web,Very Positive,6.64,25
-Odisha,Chatbot,Very Positive,7.04,25
-Meghalaya,Call-Center,Negative,5.08,25
-Gujarat,Web,Positive,6.28,25
-Jammu and Kashmir,Chatbot,Positive,6.32,25
-Telangana,Web,Very Positive,7.04,25
-Chhattisgarh,Email,Negative,4.958,24
-Chhattisgarh,Chatbot,Neutral,5.583,24
-Jharkhand,Call-Center,Positive,6.667,24
-Bihar,Email,Very Positive,6.783,23
-Chhattisgarh,Call-Center,Neutral,5.478,23
-Daman and Diu,Web,Neutral,5.522,23
-Odisha,Chatbot,Positive,6.087,23
-Daman and Diu,Call-Center,Negative,4.545,22
-Punjab,Email,Positive,6.227,22
-Jammu and Kashmir,Call-Center,Positive,6.455,22
-Assam,Call-Center,Very Positive,7.091,22
-Kerala,Call-Center,Positive,6.318,22
-Assam,Email,Positive,6.591,22
-Jharkhand,Chatbot,Very Negative,3.636,22
-Jharkhand,Call-Center,Very Positive,6.909,22
-Bihar,Web,Positive,5.476,21
-Jharkhand,Chatbot,Positive,5.81,21
-Delhi,Call-Center,Neutral,5.381,21
-Dadra and Nagar Haveli,Call-Center,Negative,5.143,21
-Jharkhand,Web,Very Negative,4.19,21
-Madhya Pradesh,Chatbot,Very Positive,5.952,21
-Daman and Diu,Chatbot,Negative,4.7,20
-Punjab,Email,Very Positive,6.55,20
-Assam,Web,Positive,6.0,20
-Madhya Pradesh,Web,Positive,5.95,20
-Bihar,Chatbot,Very Positive,6.9,20
-Lakshadweep,Call-Center,Negative,5.05,20
-Chhattisgarh,Web,Negative,4.737,19
-Kerala,Chatbot,Very Negative,4.263,19
-Assam,Web,Very Positive,7.368,19
-Assam,Email,Very Positive,7.158,19
-Delhi,Chatbot,Negative,4.737,19
-Arunachal Pradesh,Call-Center,Negative,4.947,19
-Bihar,Web,Very Positive,6.222,18
-Meghalaya,Email,Negative,4.833,18
-Odisha,Email,Very Positive,6.778,18
-Kerala,Chatbot,Positive,5.556,18
-Andaman and Nicobar Islands,Chatbot,Negative,4.944,18
-Gujarat,Web,Very Positive,6.833,18
-Gujarat,Email,Very Positive,6.389,18
-Delhi,Email,Neutral,5.889,18
-Madhya Pradesh,Web,Very Positive,6.222,18
-Chhattisgarh,Email,Very Negative,4.722,18
-Chhattisgarh,Chatbot,Very Negative,3.5,18
-Daman and Diu,Chatbot,Neutral,5.611,18
-Manipur,Email,Negative,5.0,17
-Sikkim,Call-Center,Neutral,5.588,17
-Himachal Pradesh,Call-Center,Neutral,5.706,17
-Uttarakhand,Call-Center,Negative,4.941,17
-Jharkhand,Web,Positive,6.471,17
-Goa,Call-Center,Negative,4.765,17
-Mizoram,Call-Center,Negative,4.824,17
-Madhya Pradesh,Email,Positive,6.294,17
-Puducherry,Chatbot,Negative,4.812,16
-Uttarakhand,Chatbot,Neutral,5.25,16
-Himachal Pradesh,Web,Neutral,5.562,16
-Chhattisgarh,Web,Neutral,5.125,16
-Daman and Diu,Call-Center,Neutral,5.375,16
-Daman and Diu,Email,Negative,4.438,16
-Daman and Diu,Email,Neutral,5.75,16
-Chhattisgarh,Email,Neutral,5.188,16
-Puducherry,Call-Center,Negative,4.938,16
-Punjab,Chatbot,Very Positive,6.438,16
-Chandigarh,Call-Center,Negative,4.875,16
-Jammu and Kashmir,Web,Positive,5.375,16
-Delhi,Web,Negative,4.938,16
-Mizoram,Chatbot,Negative,4.938,16
-Jammu and Kashmir,Email,Very Negative,3.933,15
-Lakshadweep,Chatbot,Negative,4.6,15
-Arunachal Pradesh,Chatbot,Negative,4.667,15
-Bihar,Email,Positive,6.267,15
-Punjab,Web,Positive,6.4,15
-Jammu and Kashmir,Call-Center,Very Positive,6.4,15
-Mizoram,Call-Center,Neutral,5.8,15
-Delhi,Chatbot,Very Negative,3.733,15
-Kerala,Web,Very Negative,3.8,15
-Madhya Pradesh,Email,Very Positive,6.467,15
-Himachal Pradesh,Call-Center,Negative,4.733,15
-Jharkhand,Email,Very Negative,4.2,15
-Andaman and Nicobar Islands,Call-Center,Negative,4.6,15
-Tripura,Call-Center,Negative,4.786,14
-Odisha,Web,Very Positive,7.0,14
-Daman and Diu,Chatbot,Very Negative,4.571,14
-Delhi,Chatbot,Neutral,5.429,14
-Sikkim,Call-Center,Negative,5.0,14
-Chhattisgarh,Call-Center,Very Negative,4.357,14
-Kerala,Web,Very Positive,6.857,14
-Lakshadweep,Call-Center,Neutral,5.571,14
-Kerala,Email,Very Negative,4.286,14
-Kerala,Chatbot,Very Positive,6.714,14
-Manipur,Call-Center,Negative,4.769,13
-Jammu and Kashmir,Web,Very Negative,3.692,13
-Nagaland,Web,Negative,4.615,13
-Punjab,Web,Very Positive,6.846,13
-Goa,Chatbot,Neutral,6.154,13
-Kerala,Call-Center,Very Positive,5.692,13
-Chhattisgarh,Chatbot,Very Positive,6.231,13
-Chhattisgarh,Web,Very Negative,4.615,13
-Dadra and Nagar Haveli,Call-Center,Neutral,5.692,13
-Jammu and Kashmir,Email,Positive,5.333,12
-Dadra and Nagar Haveli,Email,Negative,4.583,12
-Arunachal Pradesh,Call-Center,Neutral,5.833,12
-Manipur,Web,Negative,4.75,12
-Meghalaya,Web,Negative,4.75,12
-Himachal Pradesh,Email,Very Negative,4.25,12
-Meghalaya,Call-Center,Very Negative,3.833,12
-Andaman and Nicobar Islands,Call-Center,Neutral,5.667,12
-Uttarakhand,Chatbot,Negative,5.0,12
-Arunachal Pradesh,Chatbot,Neutral,5.25,12
-Uttarakhand,Email,Very Negative,3.5,12
-Meghalaya,Call-Center,Neutral,5.091,11
-Himachal Pradesh,Web,Negative,5.182,11
-Goa,Email,Negative,4.818,11
-Puducherry,Call-Center,Neutral,5.273,11
-Puducherry,Email,Negative,5.091,11
-Delhi,Call-Center,Very Positive,6.636,11
-Goa,Chatbot,Negative,4.909,11
-Jammu and Kashmir,Chatbot,Very Positive,5.909,11
-Kerala,Web,Positive,6.364,11
-Dadra and Nagar Haveli,Chatbot,Neutral,5.455,11
-Sikkim,Chatbot,Very Positive,6.091,11
-Daman and Diu,Call-Center,Very Negative,3.364,11
-Delhi,Web,Neutral,5.545,11
-Daman and Diu,Web,Very Negative,4.091,11
-Himachal Pradesh,Call-Center,Very Negative,3.182,11
-Manipur,Email,Neutral,5.455,11
-Himachal Pradesh,Email,Negative,4.727,11
-Nagaland,Call-Center,Neutral,6.0,11
-Nagaland,Email,Very Negative,4.455,11
-Goa,Email,Neutral,5.909,11
-Mizoram,Email,Neutral,5.364,11
-Nagaland,Call-Center,Negative,4.727,11
-Manipur,Web,Neutral,5.182,11
-Jharkhand,Email,Positive,5.818,11
-Goa,Call-Center,Neutral,5.0,10
-Nagaland,Chatbot,Neutral,5.5,10
-Manipur,Chatbot,Negative,4.6,10
-Goa,Web,Neutral,6.4,10
-Tripura,Email,Negative,5.5,10
-Uttarakhand,Call-Center,Very Negative,4.9,10
-Puducherry,Web,Negative,4.9,10
-Puducherry,Chatbot,Neutral,5.9,10
-Mizoram,Chatbot,Neutral,5.8,10
-Daman and Diu,Call-Center,Positive,6.8,10
-Delhi,Email,Positive,7.1,10
-Andaman and Nicobar Islands,Web,Negative,4.8,10
-Sikkim,Chatbot,Negative,4.4,10
-Sikkim,Chatbot,Neutral,6.4,10
-Dadra and Nagar Haveli,Chatbot,Very Negative,3.5,10
-Chhattisgarh,Call-Center,Positive,6.2,10
-Jammu and Kashmir,Email,Very Positive,7.0,10
-Manipur,Email,Very Positive,7.0,9
-Meghalaya,Chatbot,Negative,4.556,9
-Arunachal Pradesh,Web,Very Negative,4.778,9
-Tripura,Email,Neutral,5.0,9
-Manipur,Chatbot,Neutral,5.333,9
-Daman and Diu,Email,Very Negative,3.556,9
-Daman and Diu,Web,Negative,4.778,9
-Sikkim,Email,Negative,4.778,9
-Chandigarh,Chatbot,Negative,4.889,9
-Arunachal Pradesh,Email,Negative,5.222,9
-Sikkim,Web,Neutral,5.0,9
-Chhattisgarh,Chatbot,Positive,6.111,9
-Lakshadweep,Chatbot,Neutral,5.444,9
-Manipur,Call-Center,Neutral,6.0,9
-Jharkhand,Web,Very Positive,6.0,9
-Uttarakhand,Email,Negative,4.667,9
-Mizoram,Email,Very Negative,4.333,9
-Delhi,Web,Very Negative,3.778,9
-Kerala,Email,Very Positive,5.444,9
-Dadra and Nagar Haveli,Web,Negative,4.889,9
-Delhi,Call-Center,Very Negative,4.222,9
-Himachal Pradesh,Chatbot,Very Positive,6.444,9
-Arunachal Pradesh,Web,Neutral,5.444,9
-Goa,Web,Negative,4.667,9
-Lakshadweep,Email,Negative,4.778,9
-Goa,Email,Very Negative,3.0,8
-Nagaland,Email,Neutral,5.75,8
-Nagaland,Call-Center,Very Negative,4.375,8
-Manipur,Email,Very Negative,4.5,8
-Chhattisgarh,Call-Center,Very Positive,8.375,8
-Uttarakhand,Email,Positive,5.5,8
-Lakshadweep,Call-Center,Positive,6.0,8
-Chhattisgarh,Email,Very Positive,6.125,8
-Kerala,Email,Positive,6.25,8
-Dadra and Nagar Haveli,Web,Neutral,5.5,8
-Puducherry,Email,Very Negative,5.0,8
-Delhi,Call-Center,Positive,7.25,8
-Uttarakhand,Call-Center,Neutral,5.75,8
-Andaman and Nicobar Islands,Email,Negative,4.875,8
-Himachal Pradesh,Chatbot,Positive,6.625,8
-Tripura,Chatbot,Negative,4.75,8
-Uttarakhand,Chatbot,Very Negative,4.75,8
-Jammu and Kashmir,Web,Very Positive,6.625,8
-Manipur,Web,Very Negative,4.0,7
-Mizoram,Email,Negative,5.0,7
-Mizoram,Web,Neutral,6.429,7
-Mizoram,Web,Negative,4.857,7
-Andaman and Nicobar Islands,Web,Very Negative,4.286,7
-Jharkhand,Email,Very Positive,6.857,7
-Andaman and Nicobar Islands,Web,Neutral,5.429,7
-Jharkhand,Chatbot,Very Positive,5.0,7
-Andaman and Nicobar Islands,Chatbot,Very Negative,3.857,7
-Uttarakhand,Call-Center,Very Positive,7.571,7
-Sikkim,Web,Very Negative,4.143,7
-Chandigarh,Call-Center,Neutral,5.286,7
-Uttarakhand,Web,Negative,5.143,7
-Arunachal Pradesh,Email,Positive,5.714,7
-Dadra and Nagar Haveli,Call-Center,Very Negative,4.714,7
-Sikkim,Web,Very Positive,6.286,7
-Chhattisgarh,Web,Very Positive,8.0,7
-Chhattisgarh,Web,Positive,5.571,7
-Sikkim,Call-Center,Very Negative,4.0,7
-Puducherry,Call-Center,Positive,5.571,7
-Delhi,Chatbot,Very Positive,6.286,7
-Delhi,Email,Very Negative,4.286,7
-Chandigarh,Chatbot,Neutral,5.143,7
-Sikkim,Email,Neutral,6.143,7
-Chandigarh,Email,Neutral,5.429,7
-Lakshadweep,Email,Positive,5.429,7
-Lakshadweep,Chatbot,Very Negative,4.143,7
-Nagaland,Chatbot,Negative,4.714,7
-Himachal Pradesh,Chatbot,Very Negative,3.714,7
-Himachal Pradesh,Chatbot,Negative,5.143,7
-Goa,Chatbot,Very Negative,4.429,7
-Goa,Call-Center,Positive,6.714,7
-Daman and Diu,Web,Positive,5.286,7
-Arunachal Pradesh,Call-Center,Very Negative,4.286,7
-Dadra and Nagar Haveli,Email,Neutral,5.333,6
-Chandigarh,Email,Negative,4.5,6
-Chandigarh,Web,Negative,4.833,6
-Puducherry,Web,Positive,6.667,6
-Puducherry,Call-Center,Very Negative,4.167,6
-Delhi,Web,Positive,6.0,6
-Puducherry,Email,Neutral,5.167,6
-Sikkim,Web,Negative,4.833,6
-Meghalaya,Web,Very Negative,4.167,6
-Himachal Pradesh,Call-Center,Positive,7.333,6
-Tripura,Web,Negative,4.667,6
-Himachal Pradesh,Chatbot,Neutral,6.0,6
-Lakshadweep,Email,Neutral,5.0,6
-Himachal Pradesh,Call-Center,Very Positive,6.333,6
-Mizoram,Call-Center,Very Negative,3.833,6
-Meghalaya,Email,Very Negative,4.167,6
-Andaman and Nicobar Islands,Chatbot,Positive,6.0,6
-Tripura,Web,Very Negative,4.667,6
-Meghalaya,Chatbot,Very Negative,3.667,6
-Tripura,Web,Neutral,5.5,6
-Manipur,Chatbot,Positive,5.333,6
-Andaman and Nicobar Islands,Chatbot,Very Positive,6.667,6
-Uttarakhand,Email,Neutral,5.5,6
-Andaman and Nicobar Islands,Web,Positive,5.333,6
-Chandigarh,Web,Very Negative,2.667,6
-Meghalaya,Call-Center,Positive,5.333,6
-Tripura,Call-Center,Neutral,5.0,6
-Nagaland,Chatbot,Very Negative,4.0,6
-Nagaland,Chatbot,Positive,5.667,6
-Nagaland,Email,Negative,4.833,6
-Himachal Pradesh,Email,Neutral,5.333,6
-Goa,Call-Center,Very Negative,4.333,6
-Chhattisgarh,Email,Positive,5.333,6
-Andaman and Nicobar Islands,Email,Very Negative,3.667,6
-Lakshadweep,Call-Center,Very Negative,3.833,6
-Sikkim,Chatbot,Positive,7.0,6
-Meghalaya,Chatbot,Neutral,5.4,5
-Arunachal Pradesh,Email,Very Positive,8.8,5
-Nagaland,Email,Positive,6.0,5
-Nagaland,Web,Very Positive,6.8,5
-Arunachal Pradesh,Chatbot,Very Positive,5.0,5
-Arunachal Pradesh,Email,Neutral,5.8,5
-Arunachal Pradesh,Call-Center,Very Positive,6.6,5
-Lakshadweep,Call-Center,Very Positive,5.8,5
-Andaman and Nicobar Islands,Call-Center,Very Negative,4.4,5
-Sikkim,Email,Very Negative,4.4,5
-Sikkim,Chatbot,Very Negative,3.4,5
-Chandigarh,Chatbot,Very Negative,4.2,5
-Puducherry,Web,Very Negative,4.4,5
-Daman and Diu,Chatbot,Positive,5.8,5
-Daman and Diu,Chatbot,Very Positive,7.8,5
-Dadra and Nagar Haveli,Web,Very Negative,4.6,5
-Dadra and Nagar Haveli,Email,Very Positive,5.8,5
-Arunachal Pradesh,Web,Negative,5.2,5
-Delhi,Web,Very Positive,7.0,5
-Nagaland,Web,Positive,6.6,5
-Meghalaya,Web,Very Positive,6.6,5
-Meghalaya,Web,Positive,7.0,5
-Meghalaya,Web,Neutral,6.4,5
-Uttarakhand,Call-Center,Positive,7.0,5
-Andaman and Nicobar Islands,Email,Neutral,5.2,5
-Meghalaya,Email,Neutral,5.4,5
-Manipur,Call-Center,Very Negative,4.2,5
-Manipur,Call-Center,Positive,5.6,5
-Tripura,Email,Very Negative,3.8,5
-Tripura,Chatbot,Very Negative,4.2,5
-Mizoram,Chatbot,Very Negative,4.0,5
-Mizoram,Call-Center,Positive,5.8,5
-Nagaland,Call-Center,Very Positive,7.6,5
-Puducherry,Web,Neutral,5.6,5
-Daman and Diu,Call-Center,Very Positive,8.8,5
-Puducherry,Chatbot,Very Negative,4.2,5
-Dadra and Nagar Haveli,Email,Positive,5.0,5
-Nagaland,Web,Neutral,5.0,4
-Mizoram,Web,Positive,5.0,4
-Mizoram,Chatbot,Very Positive,8.5,4
-Lakshadweep,Chatbot,Very Positive,6.0,4
-Tripura,Chatbot,Neutral,5.75,4
-Meghalaya,Chatbot,Very Positive,8.25,4
-Meghalaya,Call-Center,Very Positive,7.5,4
-Arunachal Pradesh,Call-Center,Positive,7.25,4
-Lakshadweep,Web,Very Negative,4.5,4
-Andaman and Nicobar Islands,Chatbot,Neutral,6.0,4
-Uttarakhand,Chatbot,Very Positive,7.25,4
-Manipur,Chatbot,Very Positive,6.25,4
-Lakshadweep,Chatbot,Positive,5.75,4
-Puducherry,Email,Very Positive,6.0,4
-Goa,Chatbot,Positive,6.0,4
-Dadra and Nagar Haveli,Email,Very Negative,4.0,4
-Daman and Diu,Email,Positive,6.0,4
-Daman and Diu,Email,Very Positive,5.0,4
-Lakshadweep,Web,Negative,4.75,4
-Puducherry,Chatbot,Very Positive,7.25,4
-Puducherry,Email,Positive,5.0,4
-Puducherry,Call-Center,Very Positive,8.5,4
-Delhi,Chatbot,Positive,6.0,4
-Dadra and Nagar Haveli,Call-Center,Positive,7.0,4
-Dadra and Nagar Haveli,Chatbot,Negative,5.0,4
-Dadra and Nagar Haveli,Chatbot,Positive,7.75,4
-Chandigarh,Call-Center,Very Positive,7.0,4
-Chandigarh,Web,Neutral,5.0,4
-Arunachal Pradesh,Chatbot,Very Negative,3.5,4
-Arunachal Pradesh,Chatbot,Positive,7.25,4
-Uttarakhand,Web,Positive,6.5,4
-Andaman and Nicobar Islands,Email,Very Positive,6.667,3
-Andaman and Nicobar Islands,Web,Very Positive,6.667,3
-Uttarakhand,Web,Very Positive,6.667,3
-Andaman and Nicobar Islands,Call-Center,Very Positive,6.333,3
-Andaman and Nicobar Islands,Call-Center,Positive,7.0,3
-Dadra and Nagar Haveli,Call-Center,Very Positive,6.333,3
-Sikkim,Call-Center,Positive,6.0,3
-Sikkim,Call-Center,Very Positive,8.0,3
-Chandigarh,Call-Center,Positive,6.0,3
-Manipur,Chatbot,Very Negative,3.333,3
-Meghalaya,Email,Positive,6.333,3
-Goa,Web,Very Positive,5.0,3
-Goa,Web,Positive,7.667,3
-Sikkim,Email,Positive,6.667,3
-Chandigarh,Chatbot,Positive,7.0,3
-Chandigarh,Email,Positive,7.333,3
-Daman and Diu,Web,Very Positive,5.0,3
-Goa,Chatbot,Very Positive,7.667,3
-Tripura,Call-Center,Positive,7.667,3
-Tripura,Chatbot,Positive,5.0,3
-Tripura,Call-Center,Very Negative,3.333,3
-Goa,Call-Center,Very Positive,8.333,3
-Goa,Email,Very Positive,6.667,3
-Mizoram,Call-Center,Very Positive,5.0,3
-Nagaland,Call-Center,Positive,5.0,3
-Tripura,Web,Positive,5.667,3
-Meghalaya,Email,Very Positive,9.667,3
-Arunachal Pradesh,Web,Very Positive,5.0,3
-Tripura,Email,Positive,5.0,3
-Lakshadweep,Email,Very Positive,6.333,3
-Lakshadweep,Web,Neutral,5.667,3
-Andaman and Nicobar Islands,Email,Positive,7.333,3
-Lakshadweep,Email,Very Negative,5.0,3
-Himachal Pradesh,Web,Positive,5.0,2
-Himachal Pradesh,Email,Very Positive,9.0,2
-Uttarakhand,Email,Very Positive,7.0,2
-Uttarakhand,Web,Very Negative,4.0,2
-Nagaland,Email,Very Positive,5.0,2
-Nagaland,Chatbot,Very Positive,7.0,2
-Chandigarh,Email,Very Negative,5.0,2
-Dadra and Nagar Haveli,Chatbot,Very Positive,5.0,2
-Manipur,Web,Very Positive,5.0,2
-Manipur,Email,Positive,6.0,2
-Himachal Pradesh,Web,Very Negative,1.5,2
-Goa,Web,Very Negative,4.0,2
-Himachal Pradesh,Email,Positive,7.5,2
-Lakshadweep,Web,Positive,5.0,2
-Arunachal Pradesh,Email,Very Negative,4.0,2
-Mizoram,Email,Positive,5.0,2
-Puducherry,Chatbot,Positive,5.0,2
-Chandigarh,Web,Positive,5.0,2
-Sikkim,Email,Very Positive,5.0,2
-Chandigarh,Chatbot,Very Positive,5.0,2
-Chandigarh,Email,Very Positive,7.0,2
-Puducherry,Web,Very Positive,7.0,2
-Mizoram,Email,Very Positive,7.0,2
-Mizoram,Web,Very Negative,4.0,2
-Uttarakhand,Web,Neutral,5.0,1
-Uttarakhand,Chatbot,Positive,9.0,1
-Tripura,Chatbot,Very Positive,5.0,1
-Tripura,Call-Center,Very Positive,5.0,1
-Dadra and Nagar Haveli,Web,Positive,5.0,1
-Chandigarh,Call-Center,Very Negative,3.0,1
-Nagaland,Web,Very Negative,3.0,1
-Dadra and Nagar Haveli,Web,Very Positive,5.0,1
-Manipur,Call-Center,Very Positive,5.0,1
-Tripura,Email,Very Positive,5.0,1
-Arunachal Pradesh,Web,Positive,5.0,1
-Meghalaya,Chatbot,Positive,5.0,1
-Mizoram,Chatbot,Positive,7.0,1
-Mizoram,Web,Very Positive,5.0,1
-Himachal Pradesh,Web,Very Positive,9.0,1
-Manipur,Web,Positive,5.0,1
+state,channel,sentiment,avg_csat,tickets,,,,,,
+Uttar Pradesh,Call-Center,Negative,4.828,418,,,,,,
+Maharashtra,Call-Center,Negative,4.818,384,,,,,,
+Uttar Pradesh,Chatbot,Negative,4.781,320,,,,,,
+Uttar Pradesh,Email,Negative,4.886,316,,,State,Channel,Sentiment,Tickets
+Maharashtra,Chatbot,Negative,4.843,313,,,Uttar Pradesh,Call-Center,Negative,418
+Maharashtra,Call-Center,Neutral,5.561,312,,,Maharashtra,Call-Center,Negative,384
+Uttar Pradesh,Call-Center,Neutral,5.487,298,,,Uttar Pradesh,Chatbot,Negative,320
+Maharashtra,Email,Negative,4.77,287,,,Maharashtra,Chatbot,Negative,313
+Tamil Nadu,Call-Center,Negative,4.865,267,,,Uttar Pradesh,Email,Negative,316
+Maharashtra,Web,Negative,4.817,251,,,,,,
+Maharashtra,Chatbot,Neutral,5.695,249,,,,What this means,,
+Uttar Pradesh,Web,Negative,4.829,246,,,,,,
+Karnataka,Call-Center,Negative,4.86,242,,,,Call-Center & Chatbot are the biggest pain points,,
+Maharashtra,Call-Center,Very Negative,4.059,239,,,,,,
+Maharashtra,Email,Neutral,5.637,234,,,,Issues are not isolated — they repeat across states,,
+Uttar Pradesh,Chatbot,Neutral,5.45,231,,,,,,
+Uttar Pradesh,Email,Neutral,5.584,231,,,,Business takeaway,,
+Uttar Pradesh,Call-Center,Very Negative,4.105,220,,,,,,
+Andhra Pradesh,Call-Center,Negative,4.913,219,,,,“Most customer dissatisfaction comes from a few high-traffic channels in major states.”,,
+Uttar Pradesh,Web,Neutral,5.526,213,,,,,,
+Tamil Nadu,Call-Center,Neutral,5.606,208,,,,,,
+Karnataka,Call-Center,Neutral,5.556,196,,,,,,
+Tamil Nadu,Chatbot,Negative,4.839,193,,,,2?? Negative sentiment ? very low CSAT (important nuance),,
+Karnataka,Chatbot,Negative,4.682,192,,,,,,
+Maharashtra,Web,Neutral,5.518,191,,,,"Even for Negative sentiment, CSAT is still around 4.7–4.8 in many cases.",,
+Karnataka,Email,Negative,4.893,178,,,,,,
+Haryana,Call-Center,Negative,4.812,176,,,,This suggests:,,
+Tamil Nadu,Email,Negative,4.776,174,,,,,,
+Andhra Pradesh,Chatbot,Negative,4.815,173,,,,Customers are unhappy emotionally,,
+Uttar Pradesh,Chatbot,Very Negative,3.953,172,,,,,,
+Andhra Pradesh,Call-Center,Neutral,5.544,171,,,,But issues are often resolved eventually,,
+Tamil Nadu,Web,Negative,4.632,163,,,,,,
+Maharashtra,Email,Very Negative,3.893,159,,,," This is a process or experience issue, not agent incompetence.",,
+Andhra Pradesh,Email,Negative,4.759,158,,,,,,
+Karnataka,Call-Center,Very Negative,4.187,155,,,,,,
+Tamil Nadu,Chatbot,Neutral,5.474,154,,,,,,
+Rajasthan,Call-Center,Negative,4.837,153,,,,3?? Small states show very low CSAT (but low volume),,
+Tamil Nadu,Call-Center,Very Negative,3.894,151,,,,,,
+Maharashtra,Chatbot,Very Negative,3.694,147,,,,Examples:,,
+Uttar Pradesh,Email,Very Negative,3.952,146,,,,,,
+Karnataka,Web,Negative,4.745,145,,,,Himachal Pradesh – Web – Very Negative ? CSAT ~1.5 (only 2 tickets),,
+Haryana,Call-Center,Neutral,5.542,144,,,,,,
+Maharashtra,Call-Center,Positive,6.155,142,,,,Goa – Email – Very Negative ? CSAT ~3 (8 tickets),,
+Tamil Nadu,Email,Neutral,5.657,140,,,,,,
+Karnataka,Chatbot,Neutral,5.471,138,,,,Interpretation,,
+Andhra Pradesh,Web,Negative,4.876,137,,,,,,
+Andhra Pradesh,Chatbot,Neutral,5.588,136,,,,These look bad but affect very few customers,,
+Uttar Pradesh,Call-Center,Positive,6.169,136,,,,,,
+Uttar Pradesh,Web,Very Negative,4.037,134,,,,Should not be top priority compared to high-volume states,,
+Uttar Pradesh,Call-Center,Very Positive,7.015,130,,,,,,
+Rajasthan,Email,Negative,4.852,128,,,,,,
+Rajasthan,Chatbot,Neutral,5.441,127,,,,,,
+Karnataka,Email,Neutral,5.512,123,,,,"“Low CSAT in small states exists, but the business impact is limited due to low volume.”",,
+Maharashtra,Web,Very Negative,4.328,122,,,,,,
+Rajasthan,Chatbot,Negative,4.787,122,,,,,,
+Maharashtra,Call-Center,Very Positive,6.59,122,,,,,,
+Madhya Pradesh,Call-Center,Negative,4.811,122,,,,4?? Channel performance pattern,,
+Rajasthan,Call-Center,Neutral,5.628,121,,,,,,
+Andhra Pradesh,Email,Neutral,5.421,121,,,,Channel,Pattern,
+Haryana,Chatbot,Negative,4.792,120,,,,Call-Center,"High volume, consistent negatives",
+Telangana,Call-Center,Negative,4.825,120,,,,Chatbot,"High volume, similar issues",
+Andhra Pradesh,Call-Center,Very Negative,4.11,118,,,,Email,Medium volume,
+Rajasthan,Web,Negative,4.863,117,,,,Web,"Low volume, but extreme sentiment",
+West Bengal,Chatbot,Negative,4.863,117,,,,,,
+West Bengal,Call-Center,Negative,4.75,116,,,,?? Insight,,
+Rajasthan,Email,Neutral,5.534,116,,,,,,
+Haryana,Email,Negative,4.835,115,,,,Automation channels (Chatbot/Web) are generating dissatisfaction at scale.,,
+Haryana,Chatbot,Neutral,5.544,114,,,,,,
+Karnataka,Web,Neutral,5.761,113,,,,,,
+Uttar Pradesh,Web,Positive,6.063,111,,,,,,
+Telangana,Chatbot,Negative,4.919,111,,,,?? How We Can Optimise (Actionable),,
+Uttar Pradesh,Chatbot,Positive,6.018,111,,,,,,
+Karnataka,Chatbot,Very Negative,4.081,111,,,,?? 1?? Optimise Call-Center (Highest ROI),,
+Maharashtra,Email,Positive,5.982,110,,,,,,
+Gujarat,Call-Center,Negative,4.833,108,,,,Why,,
+Gujarat,Call-Center,Neutral,5.556,108,,,,,,
+Andhra Pradesh,Web,Neutral,5.654,107,,,,Highest ticket volume,,
+Tamil Nadu,Web,Neutral,5.6,105,,,,,,
+Tamil Nadu,Call-Center,Positive,6.144,104,,,,Repeated negative sentiment,,
+Maharashtra,Chatbot,Positive,6.067,104,,,,,,
+West Bengal,Call-Center,Neutral,5.553,103,,,,Actions,,
+Tamil Nadu,Email,Very Negative,4.059,102,,,,,,
+Gujarat,Email,Negative,4.812,101,,,,Improve agent scripts,,
+Odisha,Call-Center,Negative,4.768,99,,,,,,
+Telangana,Email,Neutral,5.561,98,,,,Reduce call transfer loops,,
+Haryana,Call-Center,Very Negative,3.907,97,,,,,,
+Tamil Nadu,Chatbot,Very Negative,4.052,97,,,,Faster resolution for repeat issues,,
+Assam,Call-Center,Negative,4.856,97,,,,,,
+Rajasthan,Call-Center,Very Negative,4,96,,,,,,
+West Bengal,Email,Negative,4.842,95,,,,,,
+Haryana,Web,Negative,4.811,95,,,,?? 2?? Improve Chatbot Flows,,
+Andhra Pradesh,Email,Very Negative,4.032,94,,,,,,
+Andhra Pradesh,Chatbot,Very Negative,4.151,93,,,,Why,,
+Uttar Pradesh,Email,Positive,6.108,93,,,,,,
+Madhya Pradesh,Call-Center,Neutral,5.435,92,,,,Large negative volume,,
+Haryana,Web,Neutral,5.489,92,,,,,,
+Punjab,Call-Center,Negative,4.739,92,,,,Likely due to poor intent recognition,,
+Maharashtra,Chatbot,Very Positive,6.533,92,,,,,,
+Odisha,Email,Negative,4.835,91,,,,Actions,,
+Tamil Nadu,Chatbot,Positive,6.341,91,,,,,,
+Telangana,Call-Center,Neutral,5.656,90,,,,Add fallback to human agent,,
+Haryana,Email,Neutral,5.411,90,,,,,,
+Telangana,Email,Negative,4.787,89,,,,Improve FAQ coverage,,
+Telangana,Web,Negative,4.841,88,,,,,,
+Haryana,Chatbot,Very Negative,3.954,87,,,,Track chatbot drop-offs,,
+Karnataka,Email,Very Negative,3.931,87,,,,,,
+Punjab,Call-Center,Neutral,5.563,87,,,,,,
+Telangana,Chatbot,Neutral,5.395,86,,,,,,
+Odisha,Call-Center,Neutral,5.494,85,,,,?? 3?? State-Specific Playbooks,,
+Telangana,Web,Neutral,5.553,85,,,,,,
+Uttar Pradesh,Chatbot,Very Positive,6.536,84,,,,Focus on:,,
+Maharashtra,Web,Positive,6.108,83,,,,,,
+Rajasthan,Web,Neutral,5.566,83,,,,Uttar Pradesh,,
+Tamil Nadu,Web,Very Negative,4.145,83,,,,,,
+Gujarat,Chatbot,Neutral,5.585,82,,,,Maharashtra,,
+West Bengal,Call-Center,Very Negative,3.815,81,,,,,,
+Bihar,Call-Center,Negative,4.788,80,,,,Tamil Nadu,,
+Tamil Nadu,Call-Center,Very Positive,6.612,80,,,,,,
+Gujarat,Chatbot,Negative,4.912,80,,,,Karnataka,,
+Karnataka,Call-Center,Positive,6.063,79,,,,,,
+West Bengal,Web,Negative,4.823,79,,,,Actions,,
+Madhya Pradesh,Chatbot,Neutral,5.423,78,,,,,,
+West Bengal,Chatbot,Neutral,5.597,77,,,,Language support,,
+Madhya Pradesh,Chatbot,Negative,4.61,77,,,,,,
+Gujarat,Web,Negative,4.816,76,,,,Region-specific FAQs,,
+Maharashtra,Email,Very Positive,6.421,76,,,,,,
+Punjab,Chatbot,Negative,4.855,76,,,,Local issue categorization,,
+Uttar Pradesh,Email,Very Positive,6.487,76,,,,,,
+Assam,Call-Center,Neutral,5.68,75,,,,,,
+Tamil Nadu,Email,Positive,6.267,75,,,,,,
+Odisha,Chatbot,Negative,4.853,75,,,,,,
+Karnataka,Web,Very Negative,4.133,75,,,,,,
+Andhra Pradesh,Call-Center,Positive,6.04,75,,,,,,
+Gujarat,Email,Neutral,5.378,74,,,,,,
+Madhya Pradesh,Web,Negative,4.767,73,,,,,,
+Rajasthan,Chatbot,Very Negative,3.767,73,,,,,,
+Odisha,Chatbot,Neutral,5.597,72,,,,,,
+Bihar,Call-Center,Neutral,5.458,72,,,,,,
+Bihar,Chatbot,Negative,4.819,72,,,,,,
+Telangana,Call-Center,Very Negative,4.268,71,,,,,,
+Uttar Pradesh,Web,Very Positive,6.329,70,,,,,,
+West Bengal,Email,Neutral,5.464,69,,,,,,
+Karnataka,Call-Center,Very Positive,6.275,69,,,,,,
+Jharkhand,Call-Center,Negative,4.826,69,,,,,,
+Madhya Pradesh,Email,Negative,4.826,69,,,,,,
+Assam,Email,Negative,4.826,69,,,,,,
+Telangana,Chatbot,Very Negative,4.014,69,,,,,,
+Rajasthan,Email,Very Negative,3.812,69,,,,,,
+Madhya Pradesh,Email,Neutral,5.478,67,,,,,,
+Andhra Pradesh,Call-Center,Very Positive,6.682,66,,,,,,
+Odisha,Web,Negative,5.015,66,,,,,,
+West Bengal,Chatbot,Very Negative,3.939,66,,,,,,
+West Bengal,Web,Neutral,5.742,66,,,,,,
+Kerala,Call-Center,Negative,4.862,65,,,,,,
+Andhra Pradesh,Web,Positive,6.262,65,,,,,,
+Gujarat,Call-Center,Very Negative,4.169,65,,,,,,
+Jammu and Kashmir,Call-Center,Negative,4.954,65,,,,,,
+Andhra Pradesh,Web,Very Negative,4.078,64,,,,,,
+Odisha,Web,Neutral,5.635,63,,,,,,
+Punjab,Email,Negative,4.603,63,,,,,,
+Gujarat,Web,Neutral,5.524,63,,,,,,
+Haryana,Email,Very Negative,4,62,,,,,,
+Karnataka,Chatbot,Positive,5.885,61,,,,,,
+Rajasthan,Call-Center,Positive,6.344,61,,,,,,
+Odisha,Email,Neutral,5.6,60,,,,,,
+Andhra Pradesh,Chatbot,Very Positive,7.017,60,,,,,,
+Bihar,Email,Negative,4.8,60,,,,,,
+Telangana,Email,Very Negative,4.217,60,,,,,,
+Madhya Pradesh,Call-Center,Very Negative,4.22,59,,,,,,
+Maharashtra,Web,Very Positive,7.017,59,,,,,,
+Karnataka,Web,Positive,5.828,58,,,,,,
+Gujarat,Chatbot,Very Negative,3.845,58,,,,,,
+Tamil Nadu,Web,Positive,6.362,58,,,,,,
+Rajasthan,Web,Very Negative,3.912,57,,,,,,
+Assam,Web,Negative,4.786,56,,,,,,
+Rajasthan,Call-Center,Very Positive,6.679,56,,,,,,
+Jammu and Kashmir,Email,Negative,4.786,56,,,,,,
+Karnataka,Email,Very Positive,6.426,54,,,,,,
+Haryana,Email,Positive,5.87,54,,,,,,
+Jharkhand,Call-Center,Neutral,5.759,54,,,,,,
+Punjab,Chatbot,Neutral,5.491,53,,,,,,
+Assam,Chatbot,Negative,4.887,53,,,,,,
+Gujarat,Web,Very Negative,4.212,52,,,,,,
+Bihar,Chatbot,Neutral,5.25,52,,,,,,
+Jammu and Kashmir,Chatbot,Negative,4.863,51,,,,,,
+Haryana,Call-Center,Positive,6.235,51,,,,,,
+Bihar,Web,Negative,4.804,51,,,,,,
+Tamil Nadu,Web,Very Positive,5.882,51,,,,,,
+Andhra Pradesh,Email,Very Positive,6.529,51,,,,,,
+Andhra Pradesh,Chatbot,Positive,5.96,50,,,,,,
+Kerala,Chatbot,Negative,4.72,50,,,,,,
+Kerala,Chatbot,Neutral,5.86,50,,,,,,
+Andhra Pradesh,Email,Positive,6.1,50,,,,,,
+Karnataka,Chatbot,Very Positive,6.714,49,,,,,,
+Karnataka,Email,Positive,5.918,49,,,,,,
+Jharkhand,Web,Negative,4.918,49,,,,,,
+Assam,Call-Center,Very Negative,4.061,49,,,,,,
+Punjab,Call-Center,Very Negative,3.979,48,,,,,,
+West Bengal,Call-Center,Very Positive,6.396,48,,,,,,
+West Bengal,Email,Very Negative,4.021,48,,,,,,
+Madhya Pradesh,Web,Neutral,5.375,48,,,,,,
+Jharkhand,Chatbot,Negative,4.938,48,,,,,,
+Telangana,Call-Center,Positive,6.062,48,,,,,,
+Bihar,Email,Neutral,5.792,48,,,,,,
+Rajasthan,Email,Positive,6.149,47,,,,,,
+Tamil Nadu,Chatbot,Very Positive,6.553,47,,,,,,
+Bihar,Call-Center,Very Negative,3.766,47,,,,,,
+Bihar,Web,Neutral,5.681,47,,,,,,
+Haryana,Web,Very Negative,4.298,47,,,,,,
+Punjab,Web,Neutral,5.413,46,,,,,,
+West Bengal,Call-Center,Positive,5.891,46,,,,,,
+Kerala,Email,Negative,4.739,46,,,,,,
+Assam,Chatbot,Very Negative,4.217,46,,,,,,
+Assam,Email,Neutral,5.467,45,,,,,,
+Punjab,Web,Negative,4.689,45,,,,,,
+Odisha,Call-Center,Very Negative,3.911,45,,,,,,
+Rajasthan,Web,Positive,6.295,44,,,,,,
+Punjab,Email,Neutral,5.364,44,,,,,,
+Madhya Pradesh,Chatbot,Very Negative,4.045,44,,,,,,
+Rajasthan,Chatbot,Positive,6.279,43,,,,,,
+Tamil Nadu,Email,Very Positive,6.256,43,,,,,,
+Madhya Pradesh,Web,Very Negative,3.977,43,,,,,,
+Rajasthan,Chatbot,Very Positive,6.07,43,,,,,,
+Kerala,Call-Center,Neutral,5.558,43,,,,,,
+Haryana,Call-Center,Very Positive,6.907,43,,,,,,
+Assam,Web,Neutral,5.619,42,,,,,,
+Jammu and Kashmir,Call-Center,Neutral,5.762,42,,,,,,
+Punjab,Email,Very Negative,3.927,41,,,,,,
+Haryana,Chatbot,Very Positive,6.341,41,,,,,,
+Kerala,Web,Negative,4.927,41,,,,,,
+Assam,Chatbot,Neutral,5.902,41,,,,,,
+Punjab,Chatbot,Very Negative,3.825,40,,,,,,
+Kerala,Call-Center,Very Negative,3.8,40,,,,,,
+Jharkhand,Email,Negative,4.846,39,,,,,,
+Jharkhand,Chatbot,Neutral,5.641,39,,,,,,
+Haryana,Web,Positive,6.077,39,,,,,,
+Telangana,Email,Very Positive,6.205,39,,,,,,
+West Bengal,Web,Very Negative,4.179,39,,,,,,
+Rajasthan,Web,Very Positive,6.128,39,,,,,,
+West Bengal,Chatbot,Positive,6.026,39,,,,,,
+Jammu and Kashmir,Web,Negative,5.105,38,,,,,,
+Telangana,Web,Very Negative,4.447,38,,,,,,
+Jharkhand,Web,Neutral,5.579,38,,,,,,
+Telangana,Chatbot,Positive,6.158,38,,,,,,
+Punjab,Web,Very Negative,4.237,38,,,,,,
+Haryana,Chatbot,Positive,6.158,38,,,,,,
+Gujarat,Chatbot,Positive,6.811,37,,,,,,
+Bihar,Chatbot,Very Negative,3.838,37,,,,,,
+Bihar,Call-Center,Very Positive,6.811,37,,,,,,
+Kerala,Web,Neutral,5.459,37,,,,,,
+West Bengal,Email,Very Positive,6.162,37,,,,,,
+Delhi,Call-Center,Negative,4.889,36,,,,,,
+Gujarat,Call-Center,Very Positive,6.944,36,,,,,,
+Madhya Pradesh,Email,Very Negative,4.056,36,,,,,,
+Madhya Pradesh,Call-Center,Positive,6.111,36,,,,,,
+Karnataka,Web,Very Positive,6.5,36,,,,,,
+Haryana,Email,Very Positive,7.257,35,,,,,,
+Rajasthan,Email,Very Positive,6.914,35,,,,,,
+Jharkhand,Call-Center,Very Negative,4.171,35,,,,,,
+Jammu and Kashmir,Chatbot,Very Negative,4.171,35,,,,,,
+Assam,Call-Center,Positive,5.971,35,,,,,,
+Telangana,Chatbot,Very Positive,6.829,35,,,,,,
+Jharkhand,Email,Neutral,5.257,35,,,,,,
+Bihar,Call-Center,Positive,6.294,34,,,,,,
+Odisha,Chatbot,Very Negative,3.559,34,,,,,,
+Telangana,Call-Center,Very Positive,6.294,34,,,,,,
+Gujarat,Email,Positive,6.353,34,,,,,,
+Gujarat,Email,Very Negative,4.235,34,,,,,,
+Kerala,Email,Neutral,5.848,33,,,,,,
+Odisha,Call-Center,Positive,6.394,33,,,,,,
+West Bengal,Email,Positive,6,33,,,,,,
+Assam,Web,Very Negative,3.938,32,,,,,,
+Gujarat,Chatbot,Very Positive,6.656,32,,,,,,
+Chhattisgarh,Call-Center,Negative,4.875,32,,,,,,
+Gujarat,Call-Center,Positive,6.387,31,,,,,,
+Chhattisgarh,Chatbot,Negative,4.774,31,,,,,,
+Punjab,Chatbot,Positive,6,31,,,,,,
+West Bengal,Chatbot,Very Positive,6.871,31,,,,,,
+Andhra Pradesh,Web,Very Positive,6.806,31,,,,,,
+Telangana,Web,Positive,6.258,31,,,,,,
+Odisha,Call-Center,Very Positive,7.133,30,,,,,,
+Punjab,Call-Center,Positive,6,30,,,,,,
+West Bengal,Web,Positive,6,30,,,,,,
+Odisha,Web,Positive,6.233,30,,,,,,
+Jammu and Kashmir,Chatbot,Neutral,5.333,30,,,,,,
+Telangana,Email,Positive,6.533,30,,,,,,
+Madhya Pradesh,Call-Center,Very Positive,6.333,30,,,,,,
+Odisha,Email,Very Negative,3.933,30,,,,,,
+Bihar,Web,Very Negative,4,30,,,,,,
+Bihar,Email,Very Negative,4.345,29,,,,,,
+Odisha,Email,Positive,6.793,29,,,,,,
+Jammu and Kashmir,Email,Neutral,5.31,29,,,,,,
+Delhi,Email,Negative,4.897,29,,,,,,
+Punjab,Call-Center,Very Positive,6.643,28,,,,,,
+Assam,Email,Very Negative,4.179,28,,,,,,
+Assam,Chatbot,Positive,6.222,27,,,,,,
+Madhya Pradesh,Chatbot,Positive,5.889,27,,,,,,
+Odisha,Web,Very Negative,3.852,27,,,,,,
+Jammu and Kashmir,Web,Neutral,5.462,26,,,,,,
+Bihar,Chatbot,Positive,6.115,26,,,,,,
+Haryana,Web,Very Positive,6.885,26,,,,,,
+Assam,Chatbot,Very Positive,6.846,26,,,,,,
+Jammu and Kashmir,Call-Center,Very Negative,4.154,26,,,,,,
+West Bengal,Web,Very Positive,6.64,25,,,,,,
+Odisha,Chatbot,Very Positive,7.04,25,,,,,,
+Meghalaya,Call-Center,Negative,5.08,25,,,,,,
+Gujarat,Web,Positive,6.28,25,,,,,,
+Jammu and Kashmir,Chatbot,Positive,6.32,25,,,,,,
+Telangana,Web,Very Positive,7.04,25,,,,,,
+Chhattisgarh,Email,Negative,4.958,24,,,,,,
+Chhattisgarh,Chatbot,Neutral,5.583,24,,,,,,
+Jharkhand,Call-Center,Positive,6.667,24,,,,,,
+Bihar,Email,Very Positive,6.783,23,,,,,,
+Chhattisgarh,Call-Center,Neutral,5.478,23,,,,,,
+Daman and Diu,Web,Neutral,5.522,23,,,,,,
+Odisha,Chatbot,Positive,6.087,23,,,,,,
+Daman and Diu,Call-Center,Negative,4.545,22,,,,,,
+Punjab,Email,Positive,6.227,22,,,,,,
+Jammu and Kashmir,Call-Center,Positive,6.455,22,,,,,,
+Assam,Call-Center,Very Positive,7.091,22,,,,,,
+Kerala,Call-Center,Positive,6.318,22,,,,,,
+Assam,Email,Positive,6.591,22,,,,,,
+Jharkhand,Chatbot,Very Negative,3.636,22,,,,,,
+Jharkhand,Call-Center,Very Positive,6.909,22,,,,,,
+Bihar,Web,Positive,5.476,21,,,,,,
+Jharkhand,Chatbot,Positive,5.81,21,,,,,,
+Delhi,Call-Center,Neutral,5.381,21,,,,,,
+Dadra and Nagar Haveli,Call-Center,Negative,5.143,21,,,,,,
+Jharkhand,Web,Very Negative,4.19,21,,,,,,
+Madhya Pradesh,Chatbot,Very Positive,5.952,21,,,,,,
+Daman and Diu,Chatbot,Negative,4.7,20,,,,,,
+Punjab,Email,Very Positive,6.55,20,,,,,,
+Assam,Web,Positive,6,20,,,,,,
+Madhya Pradesh,Web,Positive,5.95,20,,,,,,
+Bihar,Chatbot,Very Positive,6.9,20,,,,,,
+Lakshadweep,Call-Center,Negative,5.05,20,,,,,,
+Chhattisgarh,Web,Negative,4.737,19,,,,,,
+Kerala,Chatbot,Very Negative,4.263,19,,,,,,
+Assam,Web,Very Positive,7.368,19,,,,,,
+Assam,Email,Very Positive,7.158,19,,,,,,
+Delhi,Chatbot,Negative,4.737,19,,,,,,
+Arunachal Pradesh,Call-Center,Negative,4.947,19,,,,,,
+Bihar,Web,Very Positive,6.222,18,,,,,,
+Meghalaya,Email,Negative,4.833,18,,,,,,
+Odisha,Email,Very Positive,6.778,18,,,,,,
+Kerala,Chatbot,Positive,5.556,18,,,,,,
+Andaman and Nicobar Islands,Chatbot,Negative,4.944,18,,,,,,
+Gujarat,Web,Very Positive,6.833,18,,,,,,
+Gujarat,Email,Very Positive,6.389,18,,,,,,
+Delhi,Email,Neutral,5.889,18,,,,,,
+Madhya Pradesh,Web,Very Positive,6.222,18,,,,,,
+Chhattisgarh,Email,Very Negative,4.722,18,,,,,,
+Chhattisgarh,Chatbot,Very Negative,3.5,18,,,,,,
+Daman and Diu,Chatbot,Neutral,5.611,18,,,,,,
+Manipur,Email,Negative,5,17,,,,,,
+Sikkim,Call-Center,Neutral,5.588,17,,,,,,
+Himachal Pradesh,Call-Center,Neutral,5.706,17,,,,,,
+Uttarakhand,Call-Center,Negative,4.941,17,,,,,,
+Jharkhand,Web,Positive,6.471,17,,,,,,
+Goa,Call-Center,Negative,4.765,17,,,,,,
+Mizoram,Call-Center,Negative,4.824,17,,,,,,
+Madhya Pradesh,Email,Positive,6.294,17,,,,,,
+Puducherry,Chatbot,Negative,4.812,16,,,,,,
+Uttarakhand,Chatbot,Neutral,5.25,16,,,,,,
+Himachal Pradesh,Web,Neutral,5.562,16,,,,,,
+Chhattisgarh,Web,Neutral,5.125,16,,,,,,
+Daman and Diu,Call-Center,Neutral,5.375,16,,,,,,
+Daman and Diu,Email,Negative,4.438,16,,,,,,
+Daman and Diu,Email,Neutral,5.75,16,,,,,,
+Chhattisgarh,Email,Neutral,5.188,16,,,,,,
+Puducherry,Call-Center,Negative,4.938,16,,,,,,
+Punjab,Chatbot,Very Positive,6.438,16,,,,,,
+Chandigarh,Call-Center,Negative,4.875,16,,,,,,
+Jammu and Kashmir,Web,Positive,5.375,16,,,,,,
+Delhi,Web,Negative,4.938,16,,,,,,
+Mizoram,Chatbot,Negative,4.938,16,,,,,,
+Jammu and Kashmir,Email,Very Negative,3.933,15,,,,,,
+Lakshadweep,Chatbot,Negative,4.6,15,,,,,,
+Arunachal Pradesh,Chatbot,Negative,4.667,15,,,,,,
+Bihar,Email,Positive,6.267,15,,,,,,
+Punjab,Web,Positive,6.4,15,,,,,,
+Jammu and Kashmir,Call-Center,Very Positive,6.4,15,,,,,,
+Mizoram,Call-Center,Neutral,5.8,15,,,,,,
+Delhi,Chatbot,Very Negative,3.733,15,,,,,,
+Kerala,Web,Very Negative,3.8,15,,,,,,
+Madhya Pradesh,Email,Very Positive,6.467,15,,,,,,
+Himachal Pradesh,Call-Center,Negative,4.733,15,,,,,,
+Jharkhand,Email,Very Negative,4.2,15,,,,,,
+Andaman and Nicobar Islands,Call-Center,Negative,4.6,15,,,,,,
+Tripura,Call-Center,Negative,4.786,14,,,,,,
+Odisha,Web,Very Positive,7,14,,,,,,
+Daman and Diu,Chatbot,Very Negative,4.571,14,,,,,,
+Delhi,Chatbot,Neutral,5.429,14,,,,,,
+Sikkim,Call-Center,Negative,5,14,,,,,,
+Chhattisgarh,Call-Center,Very Negative,4.357,14,,,,,,
+Kerala,Web,Very Positive,6.857,14,,,,,,
+Lakshadweep,Call-Center,Neutral,5.571,14,,,,,,
+Kerala,Email,Very Negative,4.286,14,,,,,,
+Kerala,Chatbot,Very Positive,6.714,14,,,,,,
+Manipur,Call-Center,Negative,4.769,13,,,,,,
+Jammu and Kashmir,Web,Very Negative,3.692,13,,,,,,
+Nagaland,Web,Negative,4.615,13,,,,,,
+Punjab,Web,Very Positive,6.846,13,,,,,,
+Goa,Chatbot,Neutral,6.154,13,,,,,,
+Kerala,Call-Center,Very Positive,5.692,13,,,,,,
+Chhattisgarh,Chatbot,Very Positive,6.231,13,,,,,,
+Chhattisgarh,Web,Very Negative,4.615,13,,,,,,
+Dadra and Nagar Haveli,Call-Center,Neutral,5.692,13,,,,,,
+Jammu and Kashmir,Email,Positive,5.333,12,,,,,,
+Dadra and Nagar Haveli,Email,Negative,4.583,12,,,,,,
+Arunachal Pradesh,Call-Center,Neutral,5.833,12,,,,,,
+Manipur,Web,Negative,4.75,12,,,,,,
+Meghalaya,Web,Negative,4.75,12,,,,,,
+Himachal Pradesh,Email,Very Negative,4.25,12,,,,,,
+Meghalaya,Call-Center,Very Negative,3.833,12,,,,,,
+Andaman and Nicobar Islands,Call-Center,Neutral,5.667,12,,,,,,
+Uttarakhand,Chatbot,Negative,5,12,,,,,,
+Arunachal Pradesh,Chatbot,Neutral,5.25,12,,,,,,
+Uttarakhand,Email,Very Negative,3.5,12,,,,,,
+Meghalaya,Call-Center,Neutral,5.091,11,,,,,,
+Himachal Pradesh,Web,Negative,5.182,11,,,,,,
+Goa,Email,Negative,4.818,11,,,,,,
+Puducherry,Call-Center,Neutral,5.273,11,,,,,,
+Puducherry,Email,Negative,5.091,11,,,,,,
+Delhi,Call-Center,Very Positive,6.636,11,,,,,,
+Goa,Chatbot,Negative,4.909,11,,,,,,
+Jammu and Kashmir,Chatbot,Very Positive,5.909,11,,,,,,
+Kerala,Web,Positive,6.364,11,,,,,,
+Dadra and Nagar Haveli,Chatbot,Neutral,5.455,11,,,,,,
+Sikkim,Chatbot,Very Positive,6.091,11,,,,,,
+Daman and Diu,Call-Center,Very Negative,3.364,11,,,,,,
+Delhi,Web,Neutral,5.545,11,,,,,,
+Daman and Diu,Web,Very Negative,4.091,11,,,,,,
+Himachal Pradesh,Call-Center,Very Negative,3.182,11,,,,,,
+Manipur,Email,Neutral,5.455,11,,,,,,
+Himachal Pradesh,Email,Negative,4.727,11,,,,,,
+Nagaland,Call-Center,Neutral,6,11,,,,,,
+Nagaland,Email,Very Negative,4.455,11,,,,,,
+Goa,Email,Neutral,5.909,11,,,,,,
+Mizoram,Email,Neutral,5.364,11,,,,,,
+Nagaland,Call-Center,Negative,4.727,11,,,,,,
+Manipur,Web,Neutral,5.182,11,,,,,,
+Jharkhand,Email,Positive,5.818,11,,,,,,
+Goa,Call-Center,Neutral,5,10,,,,,,
+Nagaland,Chatbot,Neutral,5.5,10,,,,,,
+Manipur,Chatbot,Negative,4.6,10,,,,,,
+Goa,Web,Neutral,6.4,10,,,,,,
+Tripura,Email,Negative,5.5,10,,,,,,
+Uttarakhand,Call-Center,Very Negative,4.9,10,,,,,,
+Puducherry,Web,Negative,4.9,10,,,,,,
+Puducherry,Chatbot,Neutral,5.9,10,,,,,,
+Mizoram,Chatbot,Neutral,5.8,10,,,,,,
+Daman and Diu,Call-Center,Positive,6.8,10,,,,,,
+Delhi,Email,Positive,7.1,10,,,,,,
+Andaman and Nicobar Islands,Web,Negative,4.8,10,,,,,,
+Sikkim,Chatbot,Negative,4.4,10,,,,,,
+Sikkim,Chatbot,Neutral,6.4,10,,,,,,
+Dadra and Nagar Haveli,Chatbot,Very Negative,3.5,10,,,,,,
+Chhattisgarh,Call-Center,Positive,6.2,10,,,,,,
+Jammu and Kashmir,Email,Very Positive,7,10,,,,,,
+Manipur,Email,Very Positive,7,9,,,,,,
+Meghalaya,Chatbot,Negative,4.556,9,,,,,,
+Arunachal Pradesh,Web,Very Negative,4.778,9,,,,,,
+Tripura,Email,Neutral,5,9,,,,,,
+Manipur,Chatbot,Neutral,5.333,9,,,,,,
+Daman and Diu,Email,Very Negative,3.556,9,,,,,,
+Daman and Diu,Web,Negative,4.778,9,,,,,,
+Sikkim,Email,Negative,4.778,9,,,,,,
+Chandigarh,Chatbot,Negative,4.889,9,,,,,,
+Arunachal Pradesh,Email,Negative,5.222,9,,,,,,
+Sikkim,Web,Neutral,5,9,,,,,,
+Chhattisgarh,Chatbot,Positive,6.111,9,,,,,,
+Lakshadweep,Chatbot,Neutral,5.444,9,,,,,,
+Manipur,Call-Center,Neutral,6,9,,,,,,
+Jharkhand,Web,Very Positive,6,9,,,,,,
+Uttarakhand,Email,Negative,4.667,9,,,,,,
+Mizoram,Email,Very Negative,4.333,9,,,,,,
+Delhi,Web,Very Negative,3.778,9,,,,,,
+Kerala,Email,Very Positive,5.444,9,,,,,,
+Dadra and Nagar Haveli,Web,Negative,4.889,9,,,,,,
+Delhi,Call-Center,Very Negative,4.222,9,,,,,,
+Himachal Pradesh,Chatbot,Very Positive,6.444,9,,,,,,
+Arunachal Pradesh,Web,Neutral,5.444,9,,,,,,
+Goa,Web,Negative,4.667,9,,,,,,
+Lakshadweep,Email,Negative,4.778,9,,,,,,
+Goa,Email,Very Negative,3,8,,,,,,
+Nagaland,Email,Neutral,5.75,8,,,,,,
+Nagaland,Call-Center,Very Negative,4.375,8,,,,,,
+Manipur,Email,Very Negative,4.5,8,,,,,,
+Chhattisgarh,Call-Center,Very Positive,8.375,8,,,,,,
+Uttarakhand,Email,Positive,5.5,8,,,,,,
+Lakshadweep,Call-Center,Positive,6,8,,,,,,
+Chhattisgarh,Email,Very Positive,6.125,8,,,,,,
+Kerala,Email,Positive,6.25,8,,,,,,
+Dadra and Nagar Haveli,Web,Neutral,5.5,8,,,,,,
+Puducherry,Email,Very Negative,5,8,,,,,,
+Delhi,Call-Center,Positive,7.25,8,,,,,,
+Uttarakhand,Call-Center,Neutral,5.75,8,,,,,,
+Andaman and Nicobar Islands,Email,Negative,4.875,8,,,,,,
+Himachal Pradesh,Chatbot,Positive,6.625,8,,,,,,
+Tripura,Chatbot,Negative,4.75,8,,,,,,
+Uttarakhand,Chatbot,Very Negative,4.75,8,,,,,,
+Jammu and Kashmir,Web,Very Positive,6.625,8,,,,,,
+Manipur,Web,Very Negative,4,7,,,,,,
+Mizoram,Email,Negative,5,7,,,,,,
+Mizoram,Web,Neutral,6.429,7,,,,,,
+Mizoram,Web,Negative,4.857,7,,,,,,
+Andaman and Nicobar Islands,Web,Very Negative,4.286,7,,,,,,
+Jharkhand,Email,Very Positive,6.857,7,,,,,,
+Andaman and Nicobar Islands,Web,Neutral,5.429,7,,,,,,
+Jharkhand,Chatbot,Very Positive,5,7,,,,,,
+Andaman and Nicobar Islands,Chatbot,Very Negative,3.857,7,,,,,,
+Uttarakhand,Call-Center,Very Positive,7.571,7,,,,,,
+Sikkim,Web,Very Negative,4.143,7,,,,,,
+Chandigarh,Call-Center,Neutral,5.286,7,,,,,,
+Uttarakhand,Web,Negative,5.143,7,,,,,,
+Arunachal Pradesh,Email,Positive,5.714,7,,,,,,
+Dadra and Nagar Haveli,Call-Center,Very Negative,4.714,7,,,,,,
+Sikkim,Web,Very Positive,6.286,7,,,,,,
+Chhattisgarh,Web,Very Positive,8,7,,,,,,
+Chhattisgarh,Web,Positive,5.571,7,,,,,,
+Sikkim,Call-Center,Very Negative,4,7,,,,,,
+Puducherry,Call-Center,Positive,5.571,7,,,,,,
+Delhi,Chatbot,Very Positive,6.286,7,,,,,,
+Delhi,Email,Very Negative,4.286,7,,,,,,
+Chandigarh,Chatbot,Neutral,5.143,7,,,,,,
+Sikkim,Email,Neutral,6.143,7,,,,,,
+Chandigarh,Email,Neutral,5.429,7,,,,,,
+Lakshadweep,Email,Positive,5.429,7,,,,,,
+Lakshadweep,Chatbot,Very Negative,4.143,7,,,,,,
+Nagaland,Chatbot,Negative,4.714,7,,,,,,
+Himachal Pradesh,Chatbot,Very Negative,3.714,7,,,,,,
+Himachal Pradesh,Chatbot,Negative,5.143,7,,,,,,
+Goa,Chatbot,Very Negative,4.429,7,,,,,,
+Goa,Call-Center,Positive,6.714,7,,,,,,
+Daman and Diu,Web,Positive,5.286,7,,,,,,
+Arunachal Pradesh,Call-Center,Very Negative,4.286,7,,,,,,
+Dadra and Nagar Haveli,Email,Neutral,5.333,6,,,,,,
+Chandigarh,Email,Negative,4.5,6,,,,,,
+Chandigarh,Web,Negative,4.833,6,,,,,,
+Puducherry,Web,Positive,6.667,6,,,,,,
+Puducherry,Call-Center,Very Negative,4.167,6,,,,,,
+Delhi,Web,Positive,6,6,,,,,,
+Puducherry,Email,Neutral,5.167,6,,,,,,
+Sikkim,Web,Negative,4.833,6,,,,,,
+Meghalaya,Web,Very Negative,4.167,6,,,,,,
+Himachal Pradesh,Call-Center,Positive,7.333,6,,,,,,
+Tripura,Web,Negative,4.667,6,,,,,,
+Himachal Pradesh,Chatbot,Neutral,6,6,,,,,,
+Lakshadweep,Email,Neutral,5,6,,,,,,
+Himachal Pradesh,Call-Center,Very Positive,6.333,6,,,,,,
+Mizoram,Call-Center,Very Negative,3.833,6,,,,,,
+Meghalaya,Email,Very Negative,4.167,6,,,,,,
+Andaman and Nicobar Islands,Chatbot,Positive,6,6,,,,,,
+Tripura,Web,Very Negative,4.667,6,,,,,,
+Meghalaya,Chatbot,Very Negative,3.667,6,,,,,,
+Tripura,Web,Neutral,5.5,6,,,,,,
+Manipur,Chatbot,Positive,5.333,6,,,,,,
+Andaman and Nicobar Islands,Chatbot,Very Positive,6.667,6,,,,,,
+Uttarakhand,Email,Neutral,5.5,6,,,,,,
+Andaman and Nicobar Islands,Web,Positive,5.333,6,,,,,,
+Chandigarh,Web,Very Negative,2.667,6,,,,,,
+Meghalaya,Call-Center,Positive,5.333,6,,,,,,
+Tripura,Call-Center,Neutral,5,6,,,,,,
+Nagaland,Chatbot,Very Negative,4,6,,,,,,
+Nagaland,Chatbot,Positive,5.667,6,,,,,,
+Nagaland,Email,Negative,4.833,6,,,,,,
+Himachal Pradesh,Email,Neutral,5.333,6,,,,,,
+Goa,Call-Center,Very Negative,4.333,6,,,,,,
+Chhattisgarh,Email,Positive,5.333,6,,,,,,
+Andaman and Nicobar Islands,Email,Very Negative,3.667,6,,,,,,
+Lakshadweep,Call-Center,Very Negative,3.833,6,,,,,,
+Sikkim,Chatbot,Positive,7,6,,,,,,
+Meghalaya,Chatbot,Neutral,5.4,5,,,,,,
+Arunachal Pradesh,Email,Very Positive,8.8,5,,,,,,
+Nagaland,Email,Positive,6,5,,,,,,
+Nagaland,Web,Very Positive,6.8,5,,,,,,
+Arunachal Pradesh,Chatbot,Very Positive,5,5,,,,,,
+Arunachal Pradesh,Email,Neutral,5.8,5,,,,,,
+Arunachal Pradesh,Call-Center,Very Positive,6.6,5,,,,,,
+Lakshadweep,Call-Center,Very Positive,5.8,5,,,,,,
+Andaman and Nicobar Islands,Call-Center,Very Negative,4.4,5,,,,,,
+Sikkim,Email,Very Negative,4.4,5,,,,,,
+Sikkim,Chatbot,Very Negative,3.4,5,,,,,,
+Chandigarh,Chatbot,Very Negative,4.2,5,,,,,,
+Puducherry,Web,Very Negative,4.4,5,,,,,,
+Daman and Diu,Chatbot,Positive,5.8,5,,,,,,
+Daman and Diu,Chatbot,Very Positive,7.8,5,,,,,,
+Dadra and Nagar Haveli,Web,Very Negative,4.6,5,,,,,,
+Dadra and Nagar Haveli,Email,Very Positive,5.8,5,,,,,,
+Arunachal Pradesh,Web,Negative,5.2,5,,,,,,
+Delhi,Web,Very Positive,7,5,,,,,,
+Nagaland,Web,Positive,6.6,5,,,,,,
+Meghalaya,Web,Very Positive,6.6,5,,,,,,
+Meghalaya,Web,Positive,7,5,,,,,,
+Meghalaya,Web,Neutral,6.4,5,,,,,,
+Uttarakhand,Call-Center,Positive,7,5,,,,,,
+Andaman and Nicobar Islands,Email,Neutral,5.2,5,,,,,,
+Meghalaya,Email,Neutral,5.4,5,,,,,,
+Manipur,Call-Center,Very Negative,4.2,5,,,,,,
+Manipur,Call-Center,Positive,5.6,5,,,,,,
+Tripura,Email,Very Negative,3.8,5,,,,,,
+Tripura,Chatbot,Very Negative,4.2,5,,,,,,
+Mizoram,Chatbot,Very Negative,4,5,,,,,,
+Mizoram,Call-Center,Positive,5.8,5,,,,,,
+Nagaland,Call-Center,Very Positive,7.6,5,,,,,,
+Puducherry,Web,Neutral,5.6,5,,,,,,
+Daman and Diu,Call-Center,Very Positive,8.8,5,,,,,,
+Puducherry,Chatbot,Very Negative,4.2,5,,,,,,
+Dadra and Nagar Haveli,Email,Positive,5,5,,,,,,
+Nagaland,Web,Neutral,5,4,,,,,,
+Mizoram,Web,Positive,5,4,,,,,,
+Mizoram,Chatbot,Very Positive,8.5,4,,,,,,
+Lakshadweep,Chatbot,Very Positive,6,4,,,,,,
+Tripura,Chatbot,Neutral,5.75,4,,,,,,
+Meghalaya,Chatbot,Very Positive,8.25,4,,,,,,
+Meghalaya,Call-Center,Very Positive,7.5,4,,,,,,
+Arunachal Pradesh,Call-Center,Positive,7.25,4,,,,,,
+Lakshadweep,Web,Very Negative,4.5,4,,,,,,
+Andaman and Nicobar Islands,Chatbot,Neutral,6,4,,,,,,
+Uttarakhand,Chatbot,Very Positive,7.25,4,,,,,,
+Manipur,Chatbot,Very Positive,6.25,4,,,,,,
+Lakshadweep,Chatbot,Positive,5.75,4,,,,,,
+Puducherry,Email,Very Positive,6,4,,,,,,
+Goa,Chatbot,Positive,6,4,,,,,,
+Dadra and Nagar Haveli,Email,Very Negative,4,4,,,,,,
+Daman and Diu,Email,Positive,6,4,,,,,,
+Daman and Diu,Email,Very Positive,5,4,,,,,,
+Lakshadweep,Web,Negative,4.75,4,,,,,,
+Puducherry,Chatbot,Very Positive,7.25,4,,,,,,
+Puducherry,Email,Positive,5,4,,,,,,
+Puducherry,Call-Center,Very Positive,8.5,4,,,,,,
+Delhi,Chatbot,Positive,6,4,,,,,,
+Dadra and Nagar Haveli,Call-Center,Positive,7,4,,,,,,
+Dadra and Nagar Haveli,Chatbot,Negative,5,4,,,,,,
+Dadra and Nagar Haveli,Chatbot,Positive,7.75,4,,,,,,
+Chandigarh,Call-Center,Very Positive,7,4,,,,,,
+Chandigarh,Web,Neutral,5,4,,,,,,
+Arunachal Pradesh,Chatbot,Very Negative,3.5,4,,,,,,
+Arunachal Pradesh,Chatbot,Positive,7.25,4,,,,,,
+Uttarakhand,Web,Positive,6.5,4,,,,,,
+Andaman and Nicobar Islands,Email,Very Positive,6.667,3,,,,,,
+Andaman and Nicobar Islands,Web,Very Positive,6.667,3,,,,,,
+Uttarakhand,Web,Very Positive,6.667,3,,,,,,
+Andaman and Nicobar Islands,Call-Center,Very Positive,6.333,3,,,,,,
+Andaman and Nicobar Islands,Call-Center,Positive,7,3,,,,,,
+Dadra and Nagar Haveli,Call-Center,Very Positive,6.333,3,,,,,,
+Sikkim,Call-Center,Positive,6,3,,,,,,
+Sikkim,Call-Center,Very Positive,8,3,,,,,,
+Chandigarh,Call-Center,Positive,6,3,,,,,,
+Manipur,Chatbot,Very Negative,3.333,3,,,,,,
+Meghalaya,Email,Positive,6.333,3,,,,,,
+Goa,Web,Very Positive,5,3,,,,,,
+Goa,Web,Positive,7.667,3,,,,,,
+Sikkim,Email,Positive,6.667,3,,,,,,
+Chandigarh,Chatbot,Positive,7,3,,,,,,
+Chandigarh,Email,Positive,7.333,3,,,,,,
+Daman and Diu,Web,Very Positive,5,3,,,,,,
+Goa,Chatbot,Very Positive,7.667,3,,,,,,
+Tripura,Call-Center,Positive,7.667,3,,,,,,
+Tripura,Chatbot,Positive,5,3,,,,,,
+Tripura,Call-Center,Very Negative,3.333,3,,,,,,
+Goa,Call-Center,Very Positive,8.333,3,,,,,,
+Goa,Email,Very Positive,6.667,3,,,,,,
+Mizoram,Call-Center,Very Positive,5,3,,,,,,
+Nagaland,Call-Center,Positive,5,3,,,,,,
+Tripura,Web,Positive,5.667,3,,,,,,
+Meghalaya,Email,Very Positive,9.667,3,,,,,,
+Arunachal Pradesh,Web,Very Positive,5,3,,,,,,
+Tripura,Email,Positive,5,3,,,,,,
+Lakshadweep,Email,Very Positive,6.333,3,,,,,,
+Lakshadweep,Web,Neutral,5.667,3,,,,,,
+Andaman and Nicobar Islands,Email,Positive,7.333,3,,,,,,
+Lakshadweep,Email,Very Negative,5,3,,,,,,
+Himachal Pradesh,Web,Positive,5,2,,,,,,
+Himachal Pradesh,Email,Very Positive,9,2,,,,,,
+Uttarakhand,Email,Very Positive,7,2,,,,,,
+Uttarakhand,Web,Very Negative,4,2,,,,,,
+Nagaland,Email,Very Positive,5,2,,,,,,
+Nagaland,Chatbot,Very Positive,7,2,,,,,,
+Chandigarh,Email,Very Negative,5,2,,,,,,
+Dadra and Nagar Haveli,Chatbot,Very Positive,5,2,,,,,,
+Manipur,Web,Very Positive,5,2,,,,,,
+Manipur,Email,Positive,6,2,,,,,,
+Himachal Pradesh,Web,Very Negative,1.5,2,,,,,,
+Goa,Web,Very Negative,4,2,,,,,,
+Himachal Pradesh,Email,Positive,7.5,2,,,,,,
+Lakshadweep,Web,Positive,5,2,,,,,,
+Arunachal Pradesh,Email,Very Negative,4,2,,,,,,
+Mizoram,Email,Positive,5,2,,,,,,
+Puducherry,Chatbot,Positive,5,2,,,,,,
+Chandigarh,Web,Positive,5,2,,,,,,
+Sikkim,Email,Very Positive,5,2,,,,,,
+Chandigarh,Chatbot,Very Positive,5,2,,,,,,
+Chandigarh,Email,Very Positive,7,2,,,,,,
+Puducherry,Web,Very Positive,7,2,,,,,,
+Mizoram,Email,Very Positive,7,2,,,,,,
+Mizoram,Web,Very Negative,4,2,,,,,,
+Uttarakhand,Web,Neutral,5,1,,,,,,
+Uttarakhand,Chatbot,Positive,9,1,,,,,,
+Tripura,Chatbot,Very Positive,5,1,,,,,,
+Tripura,Call-Center,Very Positive,5,1,,,,,,
+Dadra and Nagar Haveli,Web,Positive,5,1,,,,,,
+Chandigarh,Call-Center,Very Negative,3,1,,,,,,
+Nagaland,Web,Very Negative,3,1,,,,,,
+Dadra and Nagar Haveli,Web,Very Positive,5,1,,,,,,
+Manipur,Call-Center,Very Positive,5,1,,,,,,
+Tripura,Email,Very Positive,5,1,,,,,,
+Arunachal Pradesh,Web,Positive,5,1,,,,,,
+Meghalaya,Chatbot,Positive,5,1,,,,,,
+Mizoram,Chatbot,Positive,7,1,,,,,,
+Mizoram,Web,Very Positive,5,1,,,,,,
+Himachal Pradesh,Web,Very Positive,9,1,,,,,,
+Manipur,Web,Positive,5,1,,,,,,

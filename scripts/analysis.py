@@ -89,10 +89,10 @@ else:
     csat_by_state_df = pd.DataFrame(columns=["state", "avg_csat", "tickets"])
 
 
-def weighted_avg_csat(group_df, value, weight):
-    val = group_df[value]
-    wt = group_df[weight]
-    return (val*wt).sum() / wt.sum()
+# def weighted_avg_csat(group_df, value, weight):
+#     val = group_df[value]
+#     wt = group_df[weight]
+#     return (val*wt).sum() / wt.sum()
 # =====================================================
 # TABLE 5: CSAT BY STATE + CHANNEL + SENTIMENT
 # =====================================================

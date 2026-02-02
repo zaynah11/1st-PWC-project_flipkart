@@ -1,17 +1,58 @@
-channel,call_center,avg_csat,tickets
-Call-Center,Delhi,5.225,4053
-Call-Center,Mumbai,5.198,3152
-Chatbot,Delhi,5.186,3124
-Email,Delhi,5.207,2861
-Chatbot,Mumbai,5.187,2527
-Web,Delhi,5.229,2431
-Email,Mumbai,5.217,2229
-Web,Mumbai,5.213,2052
-Call-Center,Kolkata,5.245,1589
-Chatbot,Kolkata,5.138,1236
-Email,Kolkata,5.058,1123
-Web,Kolkata,5.204,955
-Call-Center,Chennai,5.293,819
-Chatbot,Chennai,5.154,612
-Email,Chennai,5.198,596
-Web,Chennai,5.285,506
+channel,call_center,avg_csat,tickets,,,,,,,
+Call-Center,Delhi,5.225,4053,,,,,,,
+Call-Center,Mumbai,5.198,3152,,,,,,,
+Chatbot,Delhi,5.186,3124,,,,,,,
+Email,Delhi,5.207,2861,,,,,,,
+Chatbot,Mumbai,5.187,2527,,,,,,,
+Web,Delhi,5.229,2431,,,,,Key Takeaways,,
+Email,Mumbai,5.217,2229,,,,,,,
+Web,Mumbai,5.213,2052,,,,,1?? Performance varies significantly by call center,,
+Call-Center,Kolkata,5.245,1589,,,,,,,
+Chatbot,Kolkata,5.138,1236,,,,,"Some call centers consistently show higher average CSAT, regardless of channel.",,
+Email,Kolkata,5.058,1123,,,,,,,
+Web,Kolkata,5.204,955,,,,,"Others show lower CSAT with high ticket volumes, indicating operational issues.",,
+Call-Center,Chennai,5.293,819,,,,,,,
+Chatbot,Chennai,5.154,612,,,,,?? Takeout:,,
+Email,Chennai,5.198,596,,,,,,,
+Web,Chennai,5.285,506,,,,,“Customer experience quality is not uniform across call centers.”,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,2?? High-volume ? high satisfaction,,
+,,,,,,,,,,
+,,,,,,,,Call centers handling more tickets do not always deliver better CSAT.,,
+,,,,,,,,,,
+,,,,,,,,"In some cases, high volume correlates with lower satisfaction.",,
+,,,,,,,,,,
+,,,,,,,,?? Takeout:,,
+,,,,,,,,,,
+,,,,,,,,“Load balancing and staffing quality matter more than sheer volume.”,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,3?? Channel impact is visible,,
+,,,,,,,,,,
+,,,,,,,,"Certain channels (e.g., Call-Center vs Chat) perform differently across the same call center.",,
+,,,,,,,,,,
+,,,,,,,,Indicates channel-specific process gaps.,,
+,,,,,,,,,,
+,,,,,,,,?? Takeout:,,
+,,,,,,,,,,
+,,,,,,,,“Training and workflows should be customized per channel.”,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,4?? Clear candidates for optimization,,
+,,,,,,,,,,
+,,,,,,,,Call centers with:,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,High ticket count,,
+,,,,,,,,,,
+,,,,,,,,Below-average CSAT,,
+,,,,,,,,are top priority for intervention.,,
+,,,,,,,,,,
+,,,,,,,,?? Takeout:,,
+,,,,,,,,,,
+,,,,,,,,“Fixing a few underperforming centers can significantly lift overall CSAT.”,,
