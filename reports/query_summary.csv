@@ -1,0 +1,13 @@
+call_center,reason,query_count,avg_csat_score
+Chennai,Billing Question,1808,5.221238938053097
+Chennai,Payments,358,5.287709497206704
+Chennai,Service Outage,367,5.253405994550409
+Delhi,Billing Question,8873,5.211540628874112
+Delhi,Payments,1812,5.239514348785872
+Delhi,Service Outage,1784,5.184977578475336
+Kolkata,Billing Question,3517,5.172874609041797
+Kolkata,Payments,696,5.204022988505747
+Kolkata,Service Outage,690,5.101449275362318
+Mumbai,Billing Question,7121,5.193793006600196
+Mumbai,Payments,1410,5.221985815602837
+Mumbai,Service Outage,1429,5.2274317704688595

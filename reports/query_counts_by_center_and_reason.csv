@@ -1,0 +1,13 @@
+call_center,reason,count
+Chennai,Billing Question,1808
+Chennai,Payments,358
+Chennai,Service Outage,367
+Delhi,Billing Question,8873
+Delhi,Payments,1812
+Delhi,Service Outage,1784
+Kolkata,Billing Question,3517
+Kolkata,Payments,696
+Kolkata,Service Outage,690
+Mumbai,Billing Question,7121
+Mumbai,Payments,1410
+Mumbai,Service Outage,1429
